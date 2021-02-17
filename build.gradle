@@ -1,0 +1,51 @@
+plugins {
+    id 'org.jetbrains.intellij' version '0.6.5'
+    id "org.kordamp.gradle.markdown" version "2.2.0"
+}
+
+group 'com.brandiico'
+version '1.0.1'
+
+repositories {
+    mavenCentral()
+}
+
+intellij {
+    version '2020.3.2'
+//    version 'LATEST-EAP-SNAPSHOT'
+}
+
+markdownToHtml {
+    sourceDir = new File("$projectDir/build/markdown")
+    outputDir = new File("$projectDir/build/html")
+    tables = false
+}
+
+patchPluginXml {
+
+//    def readmePath = "$projectDir/build/html/README.html"
+//    if (file(readmePath).exists()) {
+//        pluginDescription file(readmePath).text
+//    }
+
+    def changelogPath = "$projectDir/build/html/CHANGELOG.html"
+    if (file(changelogPath).exists()) {
+        changeNotes file(changelogPath).text
+    }
+
+}
+
+runIde {
+
+    def ide = 0
+    if (ide == 1) {
+        ideDirectory "D:\\Users\\Brandon\\AppData\\Local\\JetBrains\\Toolbox\\apps\\PyCharm-P\\ch-0\\203.7148.72"
+    } else if (ide == 2) {
+        ideDirectory "D:\\Users\\Brandon\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-0\\203.7148.70"
+    }
+
+}
+
+//publishPlugin {
+//    token System.getenv('PUBLISH_TOKEN')
+//}
