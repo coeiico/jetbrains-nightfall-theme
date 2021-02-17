@@ -55,6 +55,8 @@
     "alpha-highMed": "#ffffffb3",
     "alpha-med": "#ffffff80",
     "alpha-medLow": "#ffffff4d",
+    "alpha-mesdadLow": "#ffffff30",
+    "alpha-mesdadasdLow": "#ffffff25",
     "alpha-low": "#ffffff1a",
     "alpha-lower": "#ffffff10"
   },
@@ -115,8 +117,8 @@
       "ArrowButton": {
         "background": "secondaryBackground",
         "nonEditableBackground": "secondaryBackground",
-        "disabledIconColor": "#576285",
-        "iconColor": "#b877db"
+        "disabledIconColor": "#57628580",
+        "iconColor": "#6c6f93"
       },
       "selectionBackground": "#2e303e",
       "nonEditableBackground": "secondaryBackground"
@@ -180,17 +182,18 @@
       "pressedForeground": "secondaryAccentColor"
     },
     "Notification": {
-      "borderColor": "selectionBackground",
+      "background": "backgroundAlt",
+      "borderColor": "separatorColor",
       "errorBorderColor": "#ff5554",
-      "errorBackground": "primaryBackground",
+      "errorBackground": "backgroundAlt",
       "errorForeground": "primaryForeground",
       "ToolWindow": {
         "warningForeground": "primaryForeground",
-        "warningBackground": "primaryBackground",
+        "warningBackground": "backgroundAlt",
         "warningBorderColor": "#ffb86c",
         "errorForeground": "primaryForeground",
         "errorBorderColor": "#ff5554",
-        "errorBackground": "primaryBackground",
+        "errorBackground": "backgroundAlt",
         "informativeForeground": "primaryForeground",
         "informativeBackground": "primaryBackground",
         "informativeBorderColor": "#50fa7b"
@@ -252,21 +255,28 @@
       }
     },
     "ScrollBar": {
+      "thumbColor": "#6C6F9325",
+      "thumbBorderColor": "#6C6F9310",
+      "hoverThumbColor": "#6C6F9330",
+      "hoverThumbBorderColor": "#6C6F931a",
       "Transparent": {
-        "thumbBorderColor": "selectionBackground",
-        "thumbColor": "#6c6f931a",
-        "hoverThumbBorderColor": "selectionBackground",
-        "hoverThumbColor": "#6c6f931a",
-        "hoverTrackColor": "2325304d"
+        "thumbColor": "#6C6F9325",
+        "thumbBorderColor": "#6C6F9310",
+        "hoverThumbColor": "#6C6F9330",
+        "hoverThumbBorderColor": "#6C6F931a",
+        "hoverTrackColor": "#23253010"
       },
       "Mac": {
-        "hoverThumbColor": "#6c6f931a",
+        "thumbColor": "#6C6F9325",
+        "thumbBorderColor": "#6C6F9310",
+        "hoverThumbColor": "#6C6F9330",
+        "hoverThumbBorderColor": "#6C6F931a",
         "Transparent": {
-          "thumbBorderColor": "selectionBackground",
-          "thumbColor": "#6c6f931a",
-          "hoverThumbBorderColor": "selectionBackground",
-          "hoverThumbColor": "#6c6f931a",
-          "hoverTrackColor": "2325304d"
+          "thumbColor": "#6C6F9325",
+          "thumbBorderColor": "#6C6F9310",
+          "hoverThumbColor": "#6C6F9330",
+          "hoverThumbBorderColor": "#6C6F931a",
+          "hoverTrackColor": "#23253010"
         }
       }
     },
@@ -318,8 +328,12 @@
       "bottomSeparatorColor": "separatorColor"
     },
     "TextField": {
+      "selectionBackground": "#6C6F934D",
       "background": "secondaryBackground"
     },
+    "Table.selectionBackground": "#6C6F934D",
+    "TextArea.selectionBackground": "#6C6F934D",
+    "TextPane.selectionBackground": "#6C6F934D",
     "ToggleButton": {
       "onBackground": "#50fa7b",
       "onForeground": "hoverBackground",

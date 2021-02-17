@@ -54,8 +54,8 @@
         <option name="DOC_COMMENT_GUIDE" value="444a73" />
         <option name="DOC_COMMENT_LINK" value="34d3fb" />
 
-        <option name="LINE_NUMBERS_COLOR" value="D5D8DA1A" />
-        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="D5D8DA80" />
+        <option name="LINE_NUMBERS_COLOR" value="abb2bf2d" />
+        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="abb2bfb3" />
         <option name="RIGHT_MARGIN_COLOR" value="D5D8DA1A" />
 
         <option name="ADDED_LINES_COLOR" value="50fa7b" />
@@ -65,26 +65,36 @@
         <option name="WHITESPACES" value="828bb8" />
         <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="b4f9f8" />
 
-        <option name="ScrollBar.thumbColor" value="6C6F931a"/>
+
+        <option name="ScrollBar.thumbColor" value="6C6F9325"/>
         <option name="ScrollBar.thumbBorderColor" value="6C6F9310"/>
-        <option name="ScrollBar.hoverThumbColor" value="6C6F931a"/>
-        <option name="ScrollBar.hoverThumbBorderColor" value="6C6F9310"/>
-        <option name="ScrollBar.Transparent.trackColor" value="2325304d"/>
-        <option name="ScrollBar.Transparent.thumbColor" value="6C6F931a"/>
+
+        <option name="ScrollBar.hoverThumbColor" value="6C6F9330"/>
+        <option name="ScrollBar.hoverThumbBorderColor" value="6C6F931a"/>
+
+        <option name="ScrollBar.Transparent.thumbColor" value="6C6F9325"/>
         <option name="ScrollBar.Transparent.thumbBorderColor" value="6C6F9310"/>
-        <option name="ScrollBar.Transparent.hoverTrackColor" value="2325304d"/>
-        <option name="ScrollBar.Transparent.hoverThumbColor" value="6C6F931a"/>
-        <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="6C6F9310"/>
-        <option name="ScrollBar.Mac.thumbColor" value="6C6F931a"/>
+        <option name="ScrollBar.Transparent.trackColor" value="23253010"/>
+
+        <option name="ScrollBar.Transparent.hoverThumbColor" value="6C6F9330"/>
+        <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="6C6F931a"/>
+        <option name="ScrollBar.Transparent.hoverTrackColor" value="23253010"/>
+
+
+        <option name="ScrollBar.Mac.thumbColor" value="6C6F9325"/>
         <option name="ScrollBar.Mac.thumbBorderColor" value="6C6F9310"/>
-        <option name="ScrollBar.Mac.hoverThumbColor" value="6C6F931a"/>
-        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="6C6F9310"/>
-        <option name="ScrollBar.Mac.Transparent.trackColor" value="E6E6E65A"/>
-        <option name="ScrollBar.Mac.Transparent.thumbColor" value="6C6F931a"/>
+
+        <option name="ScrollBar.Mac.hoverThumbColor" value="6C6F9330"/>
+        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="6C6F931a"/>
+
+        <option name="ScrollBar.Mac.Transparent.thumbColor" value="6C6F9324"/>
         <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="6C6F9310"/>
-        <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="E6E6E65A"/>
-        <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="6C6F931a"/>
-        <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="6C6F9310"/>
+        <option name="ScrollBar.Mac.Transparent.trackColor" value="23253010"/>
+
+        <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="6C6F9330"/>
+        <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="6C6F931a"/>
+        <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="23253010"/>
+
 
         <option name="VCS_ANNOTATIONS_COLOR_1" value="bd93f9" />
         <option name="VCS_ANNOTATIONS_COLOR_2" value="ff79c6" />
@@ -143,17 +153,17 @@
         </option>
         <option name="DEFAULT_BLOCK_COMMENT">
             <value>
-                <option name="FOREGROUND" value="BBBBBB4D" />
+                <option name="FOREGROUND" value="abb2bf50" />
             </value>
         </option>
         <option name="DEFAULT_DOC_COMMENT">
             <value>
-                <option name="FOREGROUND" value="BBBBBB4D" />
+                <option name="FOREGROUND" value="abb2bf50" />
             </value>
         </option>
         <option name="DEFAULT_LINE_COMMENT">
             <value>
-                <option name="FOREGROUND" value="BBBBBB4D" />
+                <option name="FOREGROUND" value="abb2bf50" />
             </value>
         </option>
         <!-- /Custom -->
@@ -1072,12 +1082,12 @@
         <!-- Breadcrumbs -->
         <option name="BREADCRUMBS_CURRENT">
             <value>
-                <option name="FOREGROUND" value="BBBBBB80" />
+                <option name="FOREGROUND" value="abb2bf80" />
             </value>
         </option>
         <option name="BREADCRUMBS_DEFAULT">
             <value>
-                <option name="FOREGROUND" value="BBBBBB80" />
+                <option name="FOREGROUND" value="abb2bf80" />
             </value>
         </option>
         <option name="BREADCRUMBS_HOVERED">
@@ -1904,7 +1914,7 @@
         </option>
         <option name="MARKDOWN.TEXT">
             <value>
-                <option name="FOREGROUND" value="c8d3f5" />
+                <option name="FOREGROUND" value="26bbd9" />
             </value>
         </option>
         <option name="MARKDOWN_AUTO_LINK">
@@ -2965,7 +2975,9 @@
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.TEXT">
-            <value />
+            <value>
+                <option name="FOREGROUND" value="26bbd9" />
+            </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.TOC">
             <value>
