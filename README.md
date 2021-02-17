@@ -41,6 +41,10 @@
 table with the colors <br>
 screenshots link + editor scheme color pic to preview syntax colors
 
+<p align="center">
+  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/temp/syntax_cpp_1.png" width="90%">
+</p>
+
 ## Attributions
 
 **Inspirations and colors picked from:**
