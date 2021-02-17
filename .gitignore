@@ -90,3 +90,4 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 .idea/jetbrains-nightfall-theme.iml
+.idea/modules.xml
