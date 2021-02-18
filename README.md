@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://horizontheme.com/">
+  <a href="https://github.com/brandii-co/jetbrains-nightfall-theme">
     <img alt="nightfall banner" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/temp/banner-rounded.png">
   </a>
 </p>
@@ -8,15 +8,15 @@
 
 <p align="center">
   <!-- release -->
-  <a href="https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode">
+  <a href="https://github.com/brandii-co/jetbrains-nightfall-theme">
     <img alt="JetBrains Plugins" src="https://img.shields.io/jetbrains/plugin/v/9630?colorA=232530&label=release&colorB=26BBD9&style=flat">
   </a>
   <!-- downloads -->
-  <a href="https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode">
+  <a href="https://github.com/brandii-co/jetbrains-nightfall-theme">
     <img alt="JetBrains plugins" src="https://img.shields.io/jetbrains/plugin/d/1347?colorA=232530&colorB=26BBD9&style=flat">
   </a>
   <!-- Rating -->
-  <a href="https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode">
+  <a href="https://github.com/brandii-co/jetbrains-nightfall-theme">
     <img alt="JetBrains Plugins" src="https://img.shields.io/jetbrains/plugin/r/stars/11941?colorA=232530&colorB=26BBD9&style=flat">
   </a>
 </p>
@@ -65,7 +65,7 @@
 
 <p align="center">
   <!-- license -->
-  <a href="https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode">
+  <a href="https://github.com/brandii-co/jetbrains-nightfall-theme/blob/main/LICENSE">
    <img alt="GitHub" src="https://img.shields.io/github/license/arcticicestudio/nord-jetbrains?colorA=232530&colorB=26BBD9">
   </a>
 </p>
