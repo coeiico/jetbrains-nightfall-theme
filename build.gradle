@@ -35,17 +35,6 @@ patchPluginXml {
 
 }
 
-runIde {
-
-    def ide = 0
-    if (ide == 1) {
-        ideDirectory "D:\\Users\\Brandon\\AppData\\Local\\JetBrains\\Toolbox\\apps\\PyCharm-P\\ch-0\\203.7148.72"
-    } else if (ide == 2) {
-        ideDirectory "D:\\Users\\Brandon\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-0\\203.7148.70"
-    }
-
-}
-
 //publishPlugin {
 //    token System.getenv('PUBLISH_TOKEN')
 //}
