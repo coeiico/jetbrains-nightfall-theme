@@ -11,8 +11,8 @@ repositories {
 }
 
 intellij {
-//    version '2020.3.2'
-    version 'LATEST-EAP-SNAPSHOT'
+    version '2020.3.2'
+//    version 'LATEST-EAP-SNAPSHOT'
 }
 
 markdownToHtml {
