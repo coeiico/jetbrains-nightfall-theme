@@ -24,7 +24,7 @@
 <p align="center">A dark, clean, simple and elegant theme for JetBrains IDE.</p>
 
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/res/nightfall-assets/preview_4_rounded.png" width="90%">
+  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/res/nightfall-assets/preview_4_r.png">
 </p>
 
 ## Installation
@@ -38,11 +38,19 @@
 
 ## Screenshots
 
-table with the colors <br>
-screenshots link + editor scheme color pic to preview syntax colors
+<p align="center">
+  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/res/nightfall-assets/preview_5_r.png">
+</p>
 
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/temp/syntax_cpp_1.png" width="90%">
+  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/res/nightfall-assets/syntax_preview_1.png">
+</p>
+<p align="center">
+  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/res/nightfall-assets/syntax_preview_3.png">
+</p>
+
+<p align="center">
+  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/res/nightfall-assets/syntax_preview_5.png">
 </p>
 
 ## Attributions
@@ -53,21 +61,11 @@ screenshots link + editor scheme color pic to preview syntax colors
 • Moonlight editor scheme <br>
 • One Dark Theme
 
-## Contributing
-
-Check out the [contributing guide](LICENSE) to learn how you can report issues and help make changes.
-
-Always be sure to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
-
 ---
 
 <p align="center">
   <!-- license -->
   <a href="https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode">
    <img alt="GitHub" src="https://img.shields.io/github/license/arcticicestudio/nord-jetbrains?colorA=232530&colorB=26BBD9">
-  </a>
-  <!-- contributions -->
-  <a href="https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode">
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/arcticicestudio/nord-jetbrains?colorA=232530&colorB=26BBD9">
   </a>
 </p>
