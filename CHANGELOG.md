@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.0.3
+
+- intial public release
+
 ### 1.0.2
 
 - minor visual updates and tweaks

@@ -4,15 +4,15 @@ plugins {
 }
 
 group 'com.brandiico'
-version '1.0.2'
+version '1.0.3'
 
 repositories {
     mavenCentral()
 }
 
 intellij {
-    version '2020.3.2'
-//    version 'LATEST-EAP-SNAPSHOT'
+//    version '2020.3.2'
+    version 'LATEST-EAP-SNAPSHOT'
 }
 
 markdownToHtml {
@@ -35,6 +35,6 @@ patchPluginXml {
 
 }
 
-//publishPlugin {
-//    token System.getenv('PUBLISH_TOKEN')
-//}
+publishPlugin {
+    token intellijPublishToken
+}
