@@ -24,7 +24,7 @@
 <p align="center">A dark, clean, simple and elegant theme for JetBrains IDE.</p>
 
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/res/nightfall-assets/preview_4_bg_rounded.png" width="90%">
+  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/res/nightfall-assets/preview_4_rounded.png" width="90%">
 </p>
 
 ## Installation
@@ -36,7 +36,7 @@
 5. Select `nightfall` from the **Theme** dropdown menu
 6. Click on the <kbd>Apply</kbd> button to apply the changes
 
-## Color Pallete
+## Screenshots
 
 table with the colors <br>
 screenshots link + editor scheme color pic to preview syntax colors
