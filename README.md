@@ -8,15 +8,15 @@
 
 <p align="center">
   <!-- release -->
-  <a href="https://github.com/brandii-co/jetbrains-nightfall-theme">
+  <a href="https://plugins.jetbrains.com/plugin/16142-nightfall-theme">
     <img alt="JetBrains Plugins" src="https://img.shields.io/jetbrains/plugin/v/16142?colorA=232530&label=release&colorB=26BBD9&style=flat">
   </a>
   <!-- downloads -->
-  <a href="https://github.com/brandii-co/jetbrains-nightfall-theme">
+  <a href="https://plugins.jetbrains.com/plugin/16142-nightfall-theme">
     <img alt="JetBrains plugins" src="https://img.shields.io/jetbrains/plugin/d/16142?colorA=232530&colorB=26BBD9&style=flat">
   </a>
   <!-- Rating -->
-  <a href="https://github.com/brandii-co/jetbrains-nightfall-theme">
+  <a href="https://plugins.jetbrains.com/plugin/16142-nightfall-theme">
     <img alt="JetBrains Plugins" src="https://img.shields.io/jetbrains/plugin/r/stars/16142?colorA=232530&colorB=26BBD9&style=flat">
   </a>
 </p>
