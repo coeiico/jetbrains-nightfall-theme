@@ -280,14 +280,14 @@
             }
         },
         "SearchEverywhere": {
-            "Header.background": "background1",
+            "Header.background": "backgroundAlt",
             "Advertiser.foreground": "foregroundMain",
             "Advertiser.background": "#2325304d",
             "SearchField": {
-                "background": "backgroundAlt"
+                "background": "background1"
             },
             "Tab": {
-                "selectedBackground": "#313341",
+                "selectedBackground": "#292b38",
                 "selectedForeground": "foregroundBright1"
             }
         },
