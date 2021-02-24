@@ -84,9 +84,11 @@
         <option name="ScrollBar.Transparent.hoverTrackColor" value="23253010"/>
 
 
+        <option name="ScrollBar.Mac.trackColor" value="1c1e26"/>
         <option name="ScrollBar.Mac.thumbColor" value="6C6F9325"/>
         <option name="ScrollBar.Mac.thumbBorderColor" value="6C6F9310"/>
 
+        <option name="ScrollBar.Mac.hoverTrackColor" value="1c1e26"/>
         <option name="ScrollBar.Mac.hoverThumbColor" value="6C6F9330"/>
         <option name="ScrollBar.Mac.hoverThumbBorderColor" value="6C6F931a"/>
 
