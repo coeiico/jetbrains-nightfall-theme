@@ -34,14 +34,17 @@
         <option name="SELECTION_BACKGROUND" value="6C6F934D" />
 
         <option name="GUTTER_BACKGROUND" value="1C1E26" />
-        <option name="INDENT_GUIDE" value="D5D8DA1A" />
-        <option name="SELECTED_INDENT_GUIDE" value="D5D8DA80" />
-        <option name="VISUAL_INDENT_GUIDE" value="D5D8DA4d" />
+        <option name="INDENT_GUIDE" value="2E303E90" />
+        <option name="SELECTED_INDENT_GUIDE" value="D5D8DA2A" />
+        <option name="VISUAL_INDENT_GUIDE" value="D5D8DA1A" />
+<!--        <option name="INDENT_GUIDE" value="D5D8DA1A" />-->
+<!--        <option name="SELECTED_INDENT_GUIDE" value="D5D8DA80" />-->
+<!--        <option name="VISUAL_INDENT_GUIDE" value="D5D8DA4d" />-->
 
         <option name="TEARLINE_COLOR" value="D5D8DA10" />
         <option name="SELECTED_TEARLINE_COLOR" value="D5D8DA1a" />
-        <option name="SEPARATOR_ABOVE_COLOR" value="D5D8DA1A" />
-        <option name="SEPARATOR_BELOW_COLOR" value="D5D8DA1A" />
+        <option name="SEPARATOR_ABOVE_COLOR" value="232530" />
+        <option name="SEPARATOR_BELOW_COLOR" value="232530" />
 
         <option name="NOTIFICATION_BACKGROUND" value="2e303e" />
         <option name="PROMOTION_PANE" value="232530" />
@@ -56,14 +59,14 @@
 
         <option name="LINE_NUMBERS_COLOR" value="abb2bf2d" />
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="abb2bfb3" />
-        <option name="RIGHT_MARGIN_COLOR" value="D5D8DA1A" />
+        <option name="RIGHT_MARGIN_COLOR" value="2E303E80" />
 
         <option name="ADDED_LINES_COLOR" value="50fa7b" />
         <option name="MODIFIED_LINES_COLOR" value="8be9fd" />
         <option name="DELETED_LINES_COLOR" value="ff5554" />
 
-        <option name="WHITESPACES" value="828bb8" />
-        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="b4f9f8" />
+        <option name="WHITESPACES" value="6c6f9390" />
+        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="6c6f93" />
 
 
         <option name="ScrollBar.thumbColor" value="6C6F9325"/>
