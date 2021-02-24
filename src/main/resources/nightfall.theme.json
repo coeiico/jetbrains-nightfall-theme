@@ -74,6 +74,7 @@
             "separatorColor": "separatorColor"
 
         },
+        "List.background": "backgroundAlt",
         "Menu.background": "backgroundAlt",
         "Menu.borderColor": "border2",
         "PopupMenu.background": "backgroundAlt",
@@ -110,6 +111,7 @@
             "ContrastBorderColor": "borderColor"
         },
         "ComboBox": {
+            "background": "backgroundAlt",
             "modifiedItemForeground": "accentColor1",
             "ArrowButton": {
                 "background": "backgroundAlt",
@@ -121,8 +123,8 @@
             "nonEditableBackground": "backgroundAlt"
         },
         "Counter": {
-            "foreground": "background1",
-            "background": "accentColor1"
+            "foreground": "foregroundMain",
+            "background": "#6c6f9360"
         },
         "CheckBoxMenuItem": {
             "acceleratorSelectionForeground": "accentColor1"
@@ -173,10 +175,10 @@
             "disabledForeground": "#abb2bf80"
         },
         "Link": {
-            "activeForeground": "accentColor1",
-            "hoverForeground": "accentColor1",
-            "visitedForeground": "accentColor2",
-            "pressedForeground": "accentColor2"
+            "activeForeground": "#6494ed",
+            "hoverForeground": "#6494ed",
+            "pressedForeground": "#6494ed",
+            "visitedForeground": "#6494ed"
         },
         "Notification": {
             "background": "backgroundAlt",
@@ -212,15 +214,13 @@
             "hoverBackground": "hoverBackground",
             "lightSelectionBackground": "hoverBackground",
             "Button": {
-                "installBorderColor": "accentColor2",
-                "installForeground": "accentColor2",
-                "installBackground": "background1",
-                "installFillForeground": "background1",
-                "installFillBackground": "accentColor2",
-                "installFocusedBackground": "background1",
-                "updateBorderColor": "#5da3f4",
-                "updateForeground": "foregroundBright1",
-                "updateBackground": "#5da3f4"
+                "installForeground": "#568AF2",
+                "installBorderColor":"#568AF2",
+                "installFillForeground": "#ffffff",
+                "installFillBackground": "#568AF2",
+                "updateForeground":"#ffffff",
+                "updateBackground": "#568AF2",
+                "updateBorderColor": "#568AF2"
             },
             "Tab": {
                 "selectedBackground": "hoverBackground",
@@ -332,7 +332,6 @@
             "selectionBackground": "#6C6F934D",
             "background": "backgroundAlt"
         },
-        "Table.selectionBackground": "#6C6F934D",
         "TextArea.selectionBackground": "#6C6F934D",
         "TextPane.selectionBackground": "#6C6F934D",
         "ToggleButton": {
