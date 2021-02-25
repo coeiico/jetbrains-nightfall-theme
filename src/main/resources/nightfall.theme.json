@@ -282,7 +282,7 @@
         "SearchEverywhere": {
             "Header.background": "backgroundAlt",
             "Advertiser.foreground": "foregroundMain",
-            "Advertiser.background": "#2325304d",
+            "Advertiser.background": "#232530",
             "SearchField": {
                 "background": "background1"
             },
@@ -299,7 +299,7 @@
             "separatorColor": "separatorColor"
         },
         "SidePanel": {
-            "background": "backgroundAlt"
+            "background": "background1"
         },
         "StatusBar": {
             "hoverBackground": "hoverBackground"
