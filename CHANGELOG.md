@@ -1,5 +1,23 @@
 # Changelog
 
+### 1.0.5
+
+- added support for 2021.1
+- changed editor indent color
+- changed editor separator line colors
+- changed editor right margin color
+- updated white space colors
+- changed table selection background color
+- changed combo box background
+- changed list background
+- changed counter foreground and background
+- changed plugin install and update button colors
+- changed search everywhere colors
+- fixed mac scroll track colors
+- changed side panel color
+- changed combo box and tree modified colors
+- changed toggle button colors
+
 ### 1.0.4
 
 - visibility changes

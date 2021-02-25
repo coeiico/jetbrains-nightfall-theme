@@ -39,10 +39,11 @@ patchPluginXml {
 }
 
 publishPlugin {
-    token intellijPublishToken
+//    token System.getenv('PUBLISH_TOKEN')
 }
 
 task printBuild {
     println 'sinceBuild: ' + patchPluginXml.sinceBuild
     println 'untilBuild: ' + patchPluginXml.untilBuild
+    println System.getenv('PUBLISH_TOKEN')
 }
