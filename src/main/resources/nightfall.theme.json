@@ -280,11 +280,11 @@
 
         "TitlePane.inactiveInfoForeground": "#abb2bf4d",
 
-        "ToggleButton.buttonColor": "foregroundBright1",
-        "ToggleButton.offBackground": "selectionBackground",
-        "ToggleButton.offForeground": "hoverBackground",
-        "ToggleButton.onBackground": "#50fa7b",
-        "ToggleButton.onForeground": "hoverBackground",
+        "ToggleButton.buttonColor": "#c1c6d0",
+        "ToggleButton.offBackground": "border0",
+        "ToggleButton.offForeground": "foregroundAlt3",
+        "ToggleButton.onBackground": "#50fa7b90",
+        "ToggleButton.onForeground": "foregroundBright1",
 
         "ToolTip.background": "backgroundAlt",
         "ToolTip.backgroundInactive": "backgroundAlt",
