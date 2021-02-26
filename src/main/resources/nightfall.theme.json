@@ -107,6 +107,8 @@
         "ComboBox.nonEditableBackground": "backgroundAlt",
         "ComboBox.selectionBackground": "#2e303e",
 
+        "ComboBoxButton.background": "backgroundAlt",
+
         "CompletionPopup.matchForeground": "#fab38e",
         "CompletionPopup.selectionBackground": "#2e303e",
         "CompletionPopup.selectionInactiveBackground": "#2e303e",
@@ -201,6 +203,7 @@
         "Popup.Header.activeBackground": "backgroundAlt",
         "Popup.Header.inactiveBackground": "backgroundAlt",
         "Popup.Toolbar.borderColor": "#313242",
+        "Popup.Toolbar.background": "backgroundAlt",
         "Popup.borderColor": "#313242",
         "Popup.inactiveBorderColor": "#313242",
         "Popup.paintBorder": true,
@@ -259,7 +262,7 @@
 
         "Table.dropLineColor": "#abb2bf",
         "Table.focusCellForeground": "#abb2bf",
-        "Table.gridColor": "#6c6f9380",
+        "Table.gridColor": "separatorColor",
         "Table.hoverBackground": "selectionBackground",
         "Table.lightSelectionBackground": "#414855",
         "Table.lightSelectionForeground": "#abb2bf",
@@ -269,7 +272,7 @@
         "Table.selectionForeground": "#ffffff",
         "Table.selectionInactiveForeground": "#abb2bf",
         "Table.stripeColor": "#2c313a",
-
+        "TableHeader.background": "backgroundAlt",
         "TableHeader.bottomSeparatorColor": "separatorColor",
 
         "TextArea.selectionBackground": "#6C6F934D",
