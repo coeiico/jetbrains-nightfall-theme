@@ -272,6 +272,7 @@
         "Table.selectionForeground": "#ffffff",
         "Table.selectionInactiveForeground": "#abb2bf",
         "Table.stripeColor": "#2c313a",
+        "Table.background": "border0",
         "TableHeader.background": "backgroundAlt",
         "TableHeader.bottomSeparatorColor": "separatorColor",
 
