@@ -39,7 +39,7 @@ patchPluginXml {
 }
 
 publishPlugin {
-//    token System.getenv('PUBLISH_TOKEN')
+    token System.getenv('PUBLISH_TOKEN')
 }
 
 task printBuild {
