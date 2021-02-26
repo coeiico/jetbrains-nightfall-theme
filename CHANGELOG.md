@@ -1,5 +1,15 @@
 # Changelog
 
+### 1.0.6
+
+- changed VCS editor gutter colors
+- changed Diff & Merge highlight colors
+- updated markdown syntax colors
+- changed table colors
+- updated combobox button background
+- updated actionbutton hoverbackground
+- changed table background color
+
 ### 1.0.5
 
 - added support for 2021.1
