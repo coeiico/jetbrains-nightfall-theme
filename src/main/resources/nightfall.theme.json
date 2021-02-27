@@ -177,6 +177,15 @@
         "Notification.errorBorderColor": "#ff5554",
         "Notification.errorForeground": "foregroundBright1",
 
+        "ParameterInfo.background": "backgroundAlt",
+        "ParameterInfo.borderColor": "border2",
+        "ParameterInfo.currentOverloadBackground": "accent",
+        "ParameterInfo.currentParameterForeground": "foregroundBright1",
+        "ParameterInfo.disabledForeground": "foregroundDim1",
+        "ParameterInfo.foreground": "foregroundMain",
+        "ParameterInfo.infoForeground": "foregroundInfo",
+        "ParameterInfo.lineSeparatorColor": "separatorColor",
+
         "PasswordField.background": "backgroundAlt",
 
         "Plugins.Button.installBorderColor": "#568AF2",
