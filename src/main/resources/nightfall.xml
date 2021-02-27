@@ -177,6 +177,25 @@
         </option>
         <!-- /Custom -->
 
+        <!-- Coverage -->
+        <option name="LINE_FULL_COVERAGE">
+            <value>
+                <option name="BACKGROUND" value="bae6760" />
+            </value>
+        </option>
+        <option name="LINE_NONE_COVERAGE">
+            <value>
+                <option name="BACKGROUND" value="ff333360" />
+                <option name="EFFECT_TYPE" value="3" />
+            </value>
+        </option>
+        <option name="LINE_PARTIAL_COVERAGE">
+            <value>
+                <option name="BACKGROUND" value="12404b" />
+            </value>
+        </option>
+        <!-- /Coverage -->
+
         <!-- Syntax -->
         <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
             <value>
