@@ -1,5 +1,10 @@
 # Changelog
 
+### 1.0.7
+
+- changed paramter info colors
+- updated code coverage line colors
+
 ### 1.0.6
 
 - changed VCS editor gutter colors
