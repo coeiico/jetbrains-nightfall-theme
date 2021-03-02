@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.0.8
+
+- fixed line coverage color problems
+
 ### 1.0.7
 
 - changed paramter info colors
