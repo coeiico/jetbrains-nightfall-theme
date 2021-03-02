@@ -180,18 +180,18 @@
         <!-- Coverage -->
         <option name="LINE_FULL_COVERAGE">
             <value>
-                <option name="BACKGROUND" value="bae6760" />
+                <option name="BACKGROUND" value="a6cc7050" />
             </value>
         </option>
         <option name="LINE_NONE_COVERAGE">
             <value>
-                <option name="BACKGROUND" value="ff333360" />
+                <option name="BACKGROUND" value="f2798350" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
         <option name="LINE_PARTIAL_COVERAGE">
             <value>
-                <option name="BACKGROUND" value="12404b" />
+                <option name="BACKGROUND" value="323a4c50" />
             </value>
         </option>
         <!-- /Coverage -->
