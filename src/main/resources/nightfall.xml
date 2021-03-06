@@ -707,6 +707,7 @@
         <option name="TODO_DEFAULT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="b4f9f8" />
+                <option name="BACKGROUND" value="444a7370" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
