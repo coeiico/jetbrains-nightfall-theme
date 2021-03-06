@@ -1,5 +1,12 @@
 # Changelog
 
+### 1.0.9
+
+- added more contrast for visibility
+- updated comment foreground colors
+- updated line number color
+- updated identifier under caret background colors
+
 ### 1.0.8
 
 - fixed line coverage color problems

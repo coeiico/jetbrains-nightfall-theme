@@ -61,7 +61,7 @@
         <option name="DOC_COMMENT_GUIDE" value="444a73" />
         <option name="DOC_COMMENT_LINK" value="34d3fb" />
 
-        <option name="LINE_NUMBERS_COLOR" value="abb2bf2d" />
+        <option name="LINE_NUMBERS_COLOR" value="abb2bf35" />
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="abb2bfb3" />
         <option name="RIGHT_MARGIN_COLOR" value="2E303E80" />
 
@@ -162,17 +162,17 @@
         </option>
         <option name="DEFAULT_BLOCK_COMMENT">
             <value>
-                <option name="FOREGROUND" value="abb2bf50" />
+                <option name="FOREGROUND" value="abb2bf65" />
             </value>
         </option>
         <option name="DEFAULT_DOC_COMMENT">
             <value>
-                <option name="FOREGROUND" value="abb2bf50" />
+                <option name="FOREGROUND" value="abb2bf65" />
             </value>
         </option>
         <option name="DEFAULT_LINE_COMMENT">
             <value>
-                <option name="FOREGROUND" value="abb2bf50" />
+                <option name="FOREGROUND" value="abb2bf65" />
             </value>
         </option>
         <!-- /Custom -->
@@ -331,8 +331,16 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="222436" />
+                <option name="BACKGROUND" value="6C6F9340" />
                 <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+                <option name="EFFECT_TYPE" value="4" />
+            </value>
+        </option>
+        <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+            <value>
+                <option name="BACKGROUND" value="3c839050" />
+                <option name="EFFECT_TYPE" value="8" />
+<!--                <option name="EFFECT_COLOR" value="FCFB00" />-->
             </value>
         </option>
 
@@ -739,12 +747,6 @@
                 <option name="EFFECT_COLOR" value="ffdb8e" />
                 <option name="ERROR_STRIPE_COLOR" value="ffdb8e" />
                 <option name="EFFECT_TYPE" value="2" />
-            </value>
-        </option>
-        <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-            <value>
-                <option name="BACKGROUND" value="4a4d5080" />
-                <option name="ERROR_STRIPE_COLOR" value="4d6168" />
             </value>
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
