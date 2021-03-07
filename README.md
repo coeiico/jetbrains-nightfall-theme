@@ -61,6 +61,11 @@
 • Moonlight editor scheme <br>
 • One Dark Theme
 
+## Contributing
+
+Check out the [contributing guide](https://github.com/brandii-co/jetbrains-nightfall-theme/blob/main/CONTRIBUTING.md) if you would like to
+contribute to the project, report any issues or voice any suggestions that you may have.
+
 ---
 
 <p align="center">
