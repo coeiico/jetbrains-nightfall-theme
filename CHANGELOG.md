@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.0
+
+- fixed issues caused by transparent colors
+- changed caret row color
+- changed selection background colors
+
 ### 1.0.9
 
 - added more contrast for visibility
