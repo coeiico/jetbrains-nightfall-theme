@@ -36,8 +36,10 @@
         "accentColor3": "#fab38e",
 
         "hoverBackground": "#282a36",
-        "selectionBackground": "#6c6f9310",
-        "selectionInactiveBackground": "#6c6f9310",
+        "selectionBackground": "#2a2c38",
+        "selectionInactiveBackground": "#2a2c38",
+        "selectionBackgroundAlt": "#6c6f9310",
+        "selectionInactiveBackgroundAlt": "#6c6f9310",
         "borderColor": "#232530",
         "separatorColor": "#2e303e",
 
@@ -315,8 +317,8 @@
         "Tree.hash": "#d5d8da10",
         "Tree.hoverBackground": "selectionBackground",
         "Tree.modifiedItemForeground": "foregroundAlt3",
-        "Tree.selectionBackground": "selectionBackground",
-        "Tree.selectionInactiveBackground": "selectionInactiveBackground",
+        "Tree.selectionBackground": "selectionBackgroundAlt",
+        "Tree.selectionInactiveBackground": "selectionInactiveBackgroundAlt",
 
         "ValidationTooltip.errorBackground": "#ff5554",
         "ValidationTooltip.errorBorderColor": "#ff5554",
