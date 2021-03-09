@@ -69,7 +69,7 @@ contribute to the project, report any issues or voice any suggestions that you m
 ## Contributors ✨
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -80,6 +80,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/brandii-co"><img src="https://avatars.githubusercontent.com/u/74169522?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Brandon Coetzee</b></sub></a><br /><a href="https://github.com/brandii-co/jetbrains-nightfall-theme/commits?author=brandii-co" title="Code">💻</a> <a href="https://github.com/brandii-co/jetbrains-nightfall-theme/issues?q=author%3Abrandii-co" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/karlmiles"><img src="https://avatars.githubusercontent.com/u/2984054?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Karl Miles</b></sub></a><br /><a href="#ideas-karlmiles" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
