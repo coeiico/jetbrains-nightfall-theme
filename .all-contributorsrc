@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "brandii-co",
+      "name": "Brandon Coetzee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74169522?v=4",
+      "profile": "https://github.com/brandii-co",
+      "contributions": [
+        "code",
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "jetbrains-nightfall-theme",
+  "projectOwner": "brandii-co",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
