@@ -1,7 +1,4 @@
 <p align="center">
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
   <a href="https://github.com/brandii-co/jetbrains-nightfall-theme">
     <img alt="nightfall banner" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/temp/banner-rounded.png">
   </a>
@@ -69,16 +66,11 @@
 Check out the [contributing guide](https://github.com/brandii-co/jetbrains-nightfall-theme/blob/main/CONTRIBUTING.md) if you would like to
 contribute to the project, report any issues or voice any suggestions that you may have.
 
----
-
-<p align="center">
-  <!-- license -->
-  <a href="https://github.com/brandii-co/jetbrains-nightfall-theme/blob/main/LICENSE">
-   <img alt="GitHub" src="https://img.shields.io/github/license/brandii-co/jetbrains-nightfall-theme?colorA=232530&colorB=26BBD9">
-  </a>
-</p>
-
 ## Contributors ✨
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -97,3 +89,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+---
+
+<p align="center">
+  <!-- license -->
+  <a href="https://github.com/brandii-co/jetbrains-nightfall-theme/blob/main/LICENSE">
+   <img alt="GitHub" src="https://img.shields.io/github/license/brandii-co/jetbrains-nightfall-theme?colorA=232530&colorB=26BBD9">
+  </a>
+</p>
