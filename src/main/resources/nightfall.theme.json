@@ -147,12 +147,12 @@
         "EditorTabs.underlineHeight": 2,
         "EditorTabs.underlinedTabBackground": "#292b38",
 
-        "FileColor.Blue": "#26bbd91a",
-        "FileColor.Green": "#29d3981a",
-        "FileColor.Orange": "#f094831a",
-        "FileColor.Rose": "#e956781a",
-        "FileColor.Violet": "#b877db1a",
-        "FileColor.Yellow": "#fab7951a",
+        "FileColor.Blue": "#0B3841",
+        "FileColor.Green": "#0C402E",
+        "FileColor.Orange": "#593731",
+        "FileColor.Rose": "#662635",
+        "FileColor.Violet": "#402A4D",
+        "FileColor.Yellow": "#4D3D1F",
 
         "Label.disabledForeground": "#abb2bf80",
         "Label.errorForeground": "#ff5554",

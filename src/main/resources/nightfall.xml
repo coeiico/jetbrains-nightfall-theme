@@ -698,7 +698,7 @@
         </option>
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="444a73" />
+                <option name="BACKGROUND" value="444a7390" />
             </value>
         </option>
         <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -1346,7 +1346,7 @@
         <!-- Diff -->
         <option name="DIFF_CONFLICT">
             <value>
-                <option name="BACKGROUND" value="f2798350" />
+                <option name="BACKGROUND" value="f2798340" />
                 <option name="ERROR_STRIPE_COLOR" value="b03435" />
             </value>
         </option>
@@ -1358,13 +1358,13 @@
         </option>
         <option name="DIFF_INSERTED">
             <value>
-                <option name="BACKGROUND" value="a6cc7050" />
+                <option name="BACKGROUND" value="a6cc7030" />
                 <option name="ERROR_STRIPE_COLOR" value="447152" />
             </value>
         </option>
         <option name="DIFF_MODIFIED">
             <value>
-                <option name="BACKGROUND" value="77a8d950" />
+                <option name="BACKGROUND" value="77a8d930" />
                 <option name="ERROR_STRIPE_COLOR" value="43698d" />
             </value>
         </option>
