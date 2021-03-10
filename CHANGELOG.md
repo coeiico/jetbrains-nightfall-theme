@@ -2,9 +2,21 @@
 
 ### 1.1.0
 
-- fixed issues caused by transparent colors
+- color overhaul
+- changed line number color
+- changed selected line number color
+- changed tab underline colors
 - changed caret row color
-- changed selection background colors
+- changed tree selection background
+- changed selection background
+- changed tree selection background
+- changed color of grey icons
+- changed text color of modified files foreground
+- changed diff and merge colors
+- changed text search result background
+- changed file colors
+- changed markdown syntax colors
+- changed text colors
 
 ### 1.0.9
 
