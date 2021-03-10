@@ -34,16 +34,13 @@
         <option name="CARET_COLOR" value="FAB795" />
         <option name="CONSOLE_BACKGROUND_KEY" value="1C1E26" />
 
-        <option name="CARET_ROW_COLOR" value="232530" />"
-        <option name="SELECTION_BACKGROUND" value="6C6F934D" />
+        <option name="CARET_ROW_COLOR" value="20222C" />"
+        <option name="SELECTION_BACKGROUND" value="2B2C3BD0" />
 
         <option name="GUTTER_BACKGROUND" value="1C1E26" />
         <option name="INDENT_GUIDE" value="2E303E90" />
         <option name="SELECTED_INDENT_GUIDE" value="D5D8DA2A" />
         <option name="VISUAL_INDENT_GUIDE" value="D5D8DA1A" />
-<!--        <option name="INDENT_GUIDE" value="D5D8DA1A" />-->
-<!--        <option name="SELECTED_INDENT_GUIDE" value="D5D8DA80" />-->
-<!--        <option name="VISUAL_INDENT_GUIDE" value="D5D8DA4d" />-->
 
         <option name="TEARLINE_COLOR" value="D5D8DA10" />
         <option name="SELECTED_TEARLINE_COLOR" value="D5D8DA1a" />
@@ -61,8 +58,8 @@
         <option name="DOC_COMMENT_GUIDE" value="444a73" />
         <option name="DOC_COMMENT_LINK" value="34d3fb" />
 
-        <option name="LINE_NUMBERS_COLOR" value="abb2bf35" />
-        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="abb2bfb3" />
+        <option name="LINE_NUMBERS_COLOR" value="373D48" />
+        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="616C7F" />
         <option name="RIGHT_MARGIN_COLOR" value="2E303E80" />
 
         <option name="ADDED_LINES_COLOR" value="a6cc7080" />
@@ -124,17 +121,17 @@
         <option name="FILESTATUS_IDEA_SVN_REPLACED" value="50fa7b" />
         <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
         <option name="FILESTATUS_MERGED" value="bd93f9" />
-        <option name="FILESTATUS_MODIFIED" value="8be9fd" />
-        <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="8be9fd" />
-        <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="8be9fd" />
+        <option name="FILESTATUS_MODIFIED" value="40DBFC" />
+        <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="40DBFC" />
+        <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="40DBFC" />
         <option name="FILESTATUS_RENAMED" value="ff79c6" />
         <option name="FILESTATUS_UNKNOWN" value="ff5555" />
         <option name="FILESTATUS_addedOutside" value="50fa7b" />
         <option name="FILESTATUS_changelistConflict" value="ff5555" />
-        <option name="FILESTATUS_modifiedOutside" value="8be9fd" />
+        <option name="FILESTATUS_modifiedOutside" value="40DBFC" />
 
-        <option name="TAB_UNDERLINE" value="e9436d" />
-        <option name="TAB_UNDERLINE_INACTIVE" value="b877db" />
+        <option name="TAB_UNDERLINE" value="54718C" />
+        <option name="TAB_UNDERLINE_INACTIVE" value="2A3946" />
 
         <!--        <option name="FOLDED_TEXT_BORDER_COLOR" value="222436" />-->
         <!--        <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2030" />-->
@@ -155,24 +152,24 @@
         <!-- Custom -->
         <option name="TEXT">
             <value>
-                <option name="FOREGROUND" value="c8d3f5" />
+                <option name="FOREGROUND" value="A9BAEF" />
                 <option name="BACKGROUND" value="1C1E26" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
         <option name="DEFAULT_BLOCK_COMMENT">
             <value>
-                <option name="FOREGROUND" value="abb2bf65" />
+                <option name="FOREGROUND" value="3D5266" />
             </value>
         </option>
         <option name="DEFAULT_DOC_COMMENT">
             <value>
-                <option name="FOREGROUND" value="abb2bf65" />
+                <option name="FOREGROUND" value="3D5266" />
             </value>
         </option>
         <option name="DEFAULT_LINE_COMMENT">
             <value>
-                <option name="FOREGROUND" value="abb2bf65" />
+                <option name="FOREGROUND" value="3D5266" />
             </value>
         </option>
         <!-- /Custom -->
