@@ -197,11 +197,11 @@
 
         "Plugins.Button.installBorderColor": "#568AF2",
         "Plugins.Button.installFillBackground": "#568AF2",
-        "Plugins.Button.installFillForeground": "#7F9AB3",
+        "Plugins.Button.installFillForeground": "#d8dbe1",
         "Plugins.Button.installForeground": "#568AF2",
         "Plugins.Button.updateBackground": "#568AF2",
         "Plugins.Button.updateBorderColor": "#568AF2",
-        "Plugins.Button.updateForeground": "#7F9AB3",
+        "Plugins.Button.updateForeground": "#d8dbe1",
         "Plugins.SearchField.background": "backgroundAlt",
         "Plugins.SectionHeader.background": "#23253080",
         "Plugins.SectionHeader.foreground": "foregroundBright1",
