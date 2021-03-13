@@ -6,7 +6,8 @@
 
     "colors": {
 
-        "foregroundBright1": "#d8dbe1",
+        "oldForeground": "#d8dbe1",
+        "foregroundBright1": "#BFC7D7",
         "foregroundBright2": "#c1c6d0",
         "foregroundMain": "#abb2bf",
         "foregroundDim1": "#abb2bf4d",
@@ -108,7 +109,7 @@
         "ToolWindow.HeaderTab.selectedInactiveBackground": "#2B2D3B",
         "ToolWindow.Button.selectedForeground": "foregroundBright1",
         "window": "#50535B",
-        "windowBorder": "#d8dbe1",
+        "windowBorder": "#BFC7D7",
         "windowText": "#43464C",
 
         "ActionButton.hoverBackground": "hoverBackground",
