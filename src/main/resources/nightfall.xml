@@ -62,9 +62,9 @@
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="616C7F" />
         <option name="RIGHT_MARGIN_COLOR" value="2E303E80" />
 
-        <option name="ADDED_LINES_COLOR" value="a6cc7080" />
-        <option name="MODIFIED_LINES_COLOR" value="77a8d980" />
-        <option name="DELETED_LINES_COLOR" value="f27983" />
+        <option name="ADDED_LINES_COLOR" value="50805C" />
+        <option name="MODIFIED_LINES_COLOR" value="3D5F80" />
+        <option name="DELETED_LINES_COLOR" value="D94652" />
 
         <option name="WHITESPACES" value="6c6f9390" />
         <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="6c6f93" />
