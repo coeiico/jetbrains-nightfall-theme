@@ -137,7 +137,7 @@
         <!--        <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2030" />-->
         <!--        <option name="DIFF_SEPARATORS_TOP_BORDER" value="191a2a" />-->
         <!--        <option name="METHOD_SEPARATORS_COLOR" value="444a73" />-->
-        <!--        <option name="MT_ADDED" value="7af8ca" />-->
+        <!--        <option name="MT_ADDED" value="64d1a9" />-->
         <!--        <option name="MT_DELETED" value="ff5370" />-->
         <!--        <option name="MT_IDEA_FILESTATUS_IGNORED" value="bcc4d6" />-->
         <!--        <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="bcc4d6" />-->
@@ -196,19 +196,19 @@
         <!-- Syntax -->
         <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
         <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
         <option name="Abstract class name">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <option name="Anonymous class name">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <option name="BACKGROUND">
@@ -230,12 +230,12 @@
         </option>
         <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <option name="ANGLE_BRACKETS_RAINBOW_COLOR2">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
@@ -269,7 +269,7 @@
         </option>
         <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -285,7 +285,7 @@
 
         <option name="CLASS_REFERENCE">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
@@ -388,7 +388,7 @@
 
         <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
 
@@ -428,7 +428,7 @@
 
         <option name="INFO_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="7af8ca" />
+                <option name="EFFECT_COLOR" value="64d1a9" />
                 <option name="ERROR_STRIPE_COLOR" value="aeae80" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
@@ -533,7 +533,7 @@
         <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
         <option name="PROTOCOL_REFERENCE">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
 
@@ -544,12 +544,12 @@
         </option>
         <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
@@ -568,7 +568,7 @@
         <option name="SLIM_CALL" baseAttributes="DEFAULT_KEYWORD" />
         <option name="SLIM_CLASS">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -622,12 +622,12 @@
         </option>
         <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
@@ -647,12 +647,12 @@
         </option>
         <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
@@ -683,7 +683,7 @@
         <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
         <option name="Static property reference ID">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -728,7 +728,7 @@
         <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
         <option name="TYPO">
             <value>
-                <option name="EFFECT_COLOR" value="ffdb8e" />
+                <option name="EFFECT_COLOR" value="DBBE7F" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
@@ -742,8 +742,8 @@
 
         <option name="WARNING_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="ffdb8e" />
-                <option name="ERROR_STRIPE_COLOR" value="ffdb8e" />
+                <option name="EFFECT_COLOR" value="DBBE7F" />
+                <option name="ERROR_STRIPE_COLOR" value="DBBE7F" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
@@ -828,12 +828,12 @@
         </option>
         <option name="DEFAULT_CLASS_NAME">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <option name="DEFAULT_CLASS_REFERENCE">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <option name="DEFAULT_COMMA">
@@ -891,7 +891,7 @@
         </option>
         <option name="DEFAULT_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="f0f1f2" />
+                <option name="FOREGROUND" value="CBCCCD" />
             </value>
         </option>
         <option name="DEFAULT_INSTANCE_FIELD">
@@ -906,7 +906,7 @@
         </option>
         <option name="DEFAULT_INTERFACE_NAME">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -996,7 +996,7 @@
         </option>
         <option name="DEFAULT_STRING">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <option name="DEFAULT_TAG">
@@ -1012,7 +1012,7 @@
         </option>
         <option name="DEFAULT_VALID_STRING_ESCAPE">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <!-- /Defaults -->
@@ -1110,23 +1110,23 @@
         <!-- Breadcrumbs -->
         <option name="BREADCRUMBS_CURRENT">
             <value>
-                <option name="FOREGROUND" value="abb2bf80" />
+                <option name="FOREGROUND" value="7F9AB3" />
             </value>
         </option>
         <option name="BREADCRUMBS_DEFAULT">
             <value>
-                <option name="FOREGROUND" value="abb2bf80" />
+                <option name="FOREGROUND" value="7F9AB3" />
             </value>
         </option>
         <option name="BREADCRUMBS_HOVERED">
             <value>
-                <option name="FOREGROUND" value="b877db" />
+                <option name="FOREGROUND" value="BFC7D7" />
                 <option name="BACKGROUND" value="282a36" />
             </value>
         </option>
         <option name="BREADCRUMBS_INACTIVE">
             <value>
-                <option name="FOREGROUND" value="f8f8f2" />
+                <option name="FOREGROUND" value="647586" />
             </value>
         </option>
         <!-- /Breadcrumbs -->
@@ -1154,7 +1154,7 @@
         </option>
         <option name="CONSOLE_GREEN_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <option name="CONSOLE_MAGENTA_OUTPUT">
@@ -1198,7 +1198,7 @@
         </option>
         <option name="CONSOLE_YELLOW_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <!-- /Console -->
@@ -1206,7 +1206,7 @@
         <!-- Apache -->
         <option name="APACHE_CONFIG.ARG_LEXEM">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <option name="APACHE_CONFIG.COMMENT">
@@ -1251,7 +1251,7 @@
         <!-- CoffeeScript -->
         <option name="COFFEESCRIPT.CLASS_NAME">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
@@ -1281,7 +1281,7 @@
         </option>
         <option name="CSS.IDENT">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <option name="CSS.IMPORTANT">
@@ -1318,7 +1318,7 @@
         </option>
         <option name="CSS.TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <option name="CSS.URL">
@@ -1422,7 +1422,7 @@
         </option>
         <option name="GO_BUILTIN_TYPE_REFERENCE">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <option name="GO_BUILTIN_VARIABLE">
@@ -1497,7 +1497,7 @@
         </option>
         <option name="GO_TYPE_REFERENCE">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <!-- /Go -->
@@ -1596,7 +1596,7 @@
         <!-- JavaScript -->
         <option name="JS.CONSOLE">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -1645,7 +1645,7 @@
         </option>
         <option name="JS.MODULE_NAME">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -1793,12 +1793,12 @@
         </option>
         <option name="KOTLIN_STRING_ESCAPE">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <option name="KOTLIN_TYPE_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <option name="KOTLIN_VARIABLE_AS_FUNCTION">
@@ -3117,7 +3117,7 @@
         <!-- OC -->
         <option name="OC.CLASS_REFERENCE">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <option name="OC.CONDITIONALLY_NOT_COMPILED">
@@ -3158,7 +3158,7 @@
         </option>
         <option name="OC.PROTOCOL_REFERENCE">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -3174,17 +3174,17 @@
         </option>
         <option name="OC.STRUCT_LIKE">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <option name="OC.TEMPLATE_TYPE">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <option name="OC.TYPEDEF">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <!-- /OC -->
@@ -3209,12 +3209,12 @@
         <!-- PHP -->
         <option name="PHP_ALIAS_REFERENCE">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <option name="PHP_CLASS">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <option name="PHP_CONCATENATION">
@@ -3227,7 +3227,7 @@
         </option>
         <option name="PHP_EXEC_COMMAND_ID">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <option name="PHP_FUNCTION">
@@ -3252,7 +3252,7 @@
         </option>
         <option name="PHP_INTERFACE">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -3334,12 +3334,12 @@
         </option>
         <option name="PY.STRING">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <option name="PY.STRING.B">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <!-- /Python -->
@@ -3397,7 +3397,7 @@
         </option>
         <option name="RDOC_EMAIL">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <option name="RDOC_HEADINGS">
@@ -3497,12 +3497,12 @@
         </option>
         <option name="RUBY_CONSTANT">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <option name="RUBY_CONSTANT_DECLARATION">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <option name="RUBY_CVAR">
@@ -3513,7 +3513,7 @@
         </option>
         <option name="RUBY_ESCAPE_SEQUENCE">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <option name="RUBY_EXPR_IN_STRING">
@@ -3563,7 +3563,7 @@
         </option>
         <option name="RUBY_LOCAL_VAR_ID">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <option name="RUBY_METHOD_NAME">
@@ -3607,12 +3607,12 @@
         </option>
         <option name="RUBY_SYMBOL">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <option name="RUBY_WORDS">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <!-- /Ruby -->
@@ -3620,7 +3620,7 @@
         <!-- ReSharper -->
         <option name="ReSharper.ASP_NET_ATTRIBUTE_VALUE">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <option name="ReSharper.ASP_NET_BLOCK_TAG">
@@ -3665,7 +3665,7 @@
         </option>
         <option name="ReSharper.ASP_NET_MVC_VIEW">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -3683,7 +3683,7 @@
         </option>
         <option name="ReSharper.ASP_NET_RAZOR_ATTRIBUTE_VALUE">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
             </value>
         </option>
         <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK">
@@ -3699,7 +3699,7 @@
         </option>
         <option name="ReSharper.ASP_NET_RAZOR_ENTITY_REFERENCE">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <option name="ReSharper.ASP_NET_RAZOR_TAG_NAME">
@@ -3723,7 +3723,7 @@
         </option>
         <option name="ReSharper.CPP_ENUM_ENUMERATOR_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <option name="ReSharper.CPP_PREPROCESSOR_MACRO_IDENTIFIER">
@@ -3785,7 +3785,7 @@
         </option>
         <option name="ReSharper.NAMESPACE_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <option name="ReSharper.OUTLINED_ENTITY">
@@ -3799,21 +3799,21 @@
         </option>
         <option name="ReSharper.STATIC_CLASS_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="ReSharper.STRING_ESCAPE_CHARACTER_2" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
         <option name="ReSharper.STRUCT_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
-                <option name="EFFECT_COLOR" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
+                <option name="EFFECT_COLOR" value="DBBE7F" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
         <option name="ReSharper.TYPE_PARAMETER_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -3886,7 +3886,7 @@
         </option>
         <option name="TS.TYPE_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="ffdb8e" />
+                <option name="FOREGROUND" value="DBBE7F" />
             </value>
         </option>
         <!-- /TypeScript -->
@@ -3918,7 +3918,7 @@
         </option>
         <option name="XPATH.STRING">
             <value>
-                <option name="FOREGROUND" value="7af8ca" />
+                <option name="FOREGROUND" value="64d1a9" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
