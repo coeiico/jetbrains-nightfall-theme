@@ -12,7 +12,7 @@ repositories {
 
 intellij {
     version '2020.3.2'
-//    version 'LATEST-EAP-SNAPSHOT'
+    // version 'LATEST-EAP-SNAPSHOT'
 }
 
 markdownToHtml {
@@ -22,11 +22,6 @@ markdownToHtml {
 }
 
 patchPluginXml {
-
-//    def readmePath = "$projectDir/build/html/README.html"
-//    if (file(readmePath).exists()) {
-//        pluginDescription file(readmePath).text
-//    }
 
     def changelogPath = "$projectDir/build/html/CHANGELOG.html"
     if (file(changelogPath).exists()) {
