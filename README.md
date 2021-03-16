@@ -24,7 +24,7 @@
 <p align="center">A dark, clean, simple and elegant theme for JetBrains IDE.</p>
 
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/res/nightfall-assets/preview_4_r.png">
+  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/jetbrains-nightfall-theme/main/assets/previews/screenshots/preview_1_r.png">
 </p>
 
 ## Installation
@@ -39,18 +39,18 @@
 ## Screenshots
 
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/res/nightfall-assets/preview_5_r.png">
+  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/jetbrains-nightfall-theme/main/assets/previews/screenshots/preview_2_r.png">
 </p>
 
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/res/nightfall-assets/syntax_preview_1.png">
+  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/jetbrains-nightfall-theme/main/assets/previews/screenshots/preview_syntax_1_r.png">
 </p>
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/res/nightfall-assets/syntax_preview_3.png">
+  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/jetbrains-nightfall-theme/main/assets/previews/screenshots/preview_syntax_3_r.png">
 </p>
 
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/res/nightfall-assets/syntax_preview_5.png">
+  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/jetbrains-nightfall-theme/main/assets/previews/screenshots/preview_syntax_4_r.png">
 </p>
 
 ## Attributions

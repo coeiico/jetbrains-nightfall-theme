@@ -1,37 +1,37 @@
 # Screenshots
 
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/jetbrains-nightfall-theme/main/assets/previews/preview_4_r.png">
+  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/jetbrains-nightfall-theme/main/assets/previews/screenshots/preview_1_r.png">
 </p>
 
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/res/nightfall-assets/preview_5_r.png">
+  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/jetbrains-nightfall-theme/main/assets/previews/screenshots/preview_2_r.png">
 </p>
 
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/res/nightfall-assets/preview_menu_r.png">
+  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/jetbrains-nightfall-theme/main/assets/previews/screenshots/preview_menu_r.png">
 </p>
 
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/res/nightfall-assets/preview_plugins_r.png">
+  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/jetbrains-nightfall-theme/main/assets/previews/screenshots/preview_search_r.png">
 </p>
 
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/res/nightfall-assets/preview_settings_r.png">
+  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/jetbrains-nightfall-theme/main/assets/previews/screenshots/preview_settings_r.png">
 </p>
 
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/res/nightfall-assets/syntax_preview_1.png">
+  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/jetbrains-nightfall-theme/main/assets/previews/screenshots/preview_syntax_1_r.png">
 </p>
 
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/res/nightfall-assets/syntax_preview_2.png">
+  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/jetbrains-nightfall-theme/main/assets/previews/screenshots/preview_syntax_2_r.png">
 </p>
 
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/res/nightfall-assets/syntax_preview_3.png">
+  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/jetbrains-nightfall-theme/main/assets/previews/screenshots/preview_syntax_3_r.png">
 </p>
 
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/brandii-co/main/res/nightfall-assets/syntax_preview_5.png">
+  <img alt="preview" src="https://raw.githubusercontent.com/brandii-co/jetbrains-nightfall-theme/main/assets/previews/screenshots/preview_syntax_4_r.png">
 </p>

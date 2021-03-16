@@ -1,5 +1,15 @@
 # Changelog
 
+### 1.1.1
+
+- changed tearline color
+- changed selected tearline color
+- changed diff colors
+- changed line coverage colors
+- changed added/modified/deleted line colors
+- changed some syntax highlighting colors
+- updated plugin preview screenshots
+
 ### 1.1.0
 
 - color overhaul
