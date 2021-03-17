@@ -17,7 +17,7 @@
   </a>
   <!-- Rating -->
   <a href="https://plugins.jetbrains.com/plugin/16142-nightfall-theme">
-    <img alt="JetBrains Plugins" src="https://img.shields.io/static/v1?label=rating&message=4.7/5&colorA=232530&colorB=26BBD9&style=flat">
+    <img alt="JetBrains Plugins" src="https://img.shields.io/static/v1?label=rating&message=4.8/5&colorA=232530&colorB=26BBD9&style=flat">
   </a>
 </p>
 
