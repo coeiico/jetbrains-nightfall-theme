@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.1.2
+
+- 2021.2 EAP build support
+
 ### 1.1.1
 
 - changed tearline color
