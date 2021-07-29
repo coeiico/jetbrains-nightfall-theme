@@ -152,8 +152,8 @@
         "ComboBoxButton.background": "backgroundAlt",
 
         "CompletionPopup.matchForeground": "#fab38e",
-        "CompletionPopup.selectionBackground": "#2e303e",
-        "CompletionPopup.selectionInactiveBackground": "#2e303e",
+        "CompletionPopup.selectionBackground": "#373A4E",
+        "CompletionPopup.selectionInactiveBackground": "#373A4E",
 
         "Component.borderColor": "selectionBackground",
         "Component.disabledBorderColor": "selectionBackground",

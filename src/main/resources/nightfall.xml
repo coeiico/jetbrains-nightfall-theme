@@ -133,6 +133,8 @@
         <option name="TAB_UNDERLINE" value="54718C" />
         <option name="TAB_UNDERLINE_INACTIVE" value="2A3946" />
 
+        <option name="LOOKUP_COLOR" value="2e303e"/>
+
         <!--        <option name="FOLDED_TEXT_BORDER_COLOR" value="222436" />-->
         <!--        <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2030" />-->
         <!--        <option name="DIFF_SEPARATORS_TOP_BORDER" value="191a2a" />-->
