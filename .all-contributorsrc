@@ -32,6 +32,16 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "Paracells",
+      "name": "Paracells",
+      "avatar_url": "https://avatars.githubusercontent.com/u/575811?v=4",
+      "profile": "https://github.com/Paracells",
+      "contributions": [
+        "bug",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 6,
