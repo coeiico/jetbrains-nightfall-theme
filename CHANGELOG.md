@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.1.3
+
+- fixed code completion window color
+
 ### 1.1.2
 
 - 2021.2 EAP build support
