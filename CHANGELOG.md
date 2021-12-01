@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.1.4
+
+- 2021.3 build support added
+
 ### 1.1.3
 
 - fixed code completion window color
