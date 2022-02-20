@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'com.brandiico'
-version '1.1.4'
+version '1.1.5-snapshot-1'
 
 repositories {
     mavenCentral()
@@ -29,7 +29,7 @@ patchPluginXml {
     }
 
     sinceBuild '203.7148'
-    untilBuild '213.*'
+    untilBuild '221.*'
 
 }
 
