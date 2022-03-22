@@ -1,5 +1,12 @@
 # Changelog
 
+### 1.1.5
+
+- added support for 2022.1
+- selection background change
+- comment color change
+- identifier highlight color change
+
 ### 1.1.4
 
 - 2021.3 build support added
