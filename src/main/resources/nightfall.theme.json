@@ -328,11 +328,17 @@
         "TableHeader.background": "backgroundAlt",
         "TableHeader.bottomSeparatorColor": "separatorColor",
 
-        "TextArea.selectionBackground": "#6C6F934D",
+        "TextArea.selectionBackground": "#43465C",
 
         "TextField.background": "backgroundAlt",
-        "TextField.selectionBackground": "#6C6F934D",
-        "TextPane.selectionBackground": "#6C6F934D",
+        "TextField.selectionBackground": "#6C6F93A0",
+        "TextPane.selectionBackground": "#6C6F93A0",
+
+        "EditorPane.selectionBackground": "#6C6F93A0",
+        "_comment.FormattedTextField.selectionBackground": "test1",
+        "_comment.TextPane.selectionBackground": "test2",
+        "_comment.TextArea.background": "test1",
+        "_comment.FormattedTextField.background": "test1",
 
         "TitlePane.inactiveInfoForeground": "foregroundInfo",
 
