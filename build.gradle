@@ -22,15 +22,10 @@ markdownToHtml {
 }
 
 patchPluginXml {
-
     def changelogPath = "$projectDir/build/html/CHANGELOG.html"
-    if (file(changelogPath).exists()) {
-        changeNotes file(changelogPath).text
-    }
-
+    if (file(changelogPath).exists()) { changeNotes file(changelogPath).text }
     sinceBuild '203.7148'
-    untilBuild '*.*'
-
+    untilBuild '222.*'
 }
 
 publishPlugin {
