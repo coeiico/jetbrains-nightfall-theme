@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.1.6
+
+- added support for 2022.2
+
 ### 1.1.5
 
 - added support for 2022.1
