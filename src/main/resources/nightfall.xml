@@ -1,57 +1,43 @@
 <scheme name="nightfall" version="142" parent_scheme="Darcula">
-
+    <!--Contents-->
     <option name="FONT_SCALE" value="1.0" />
-    <option name="LINE_SPACING" value="1.2" />
-    <option name="CONSOLE_LIGATURES" value="true" />
-
-    <option name="EDITOR_FONT_SIZE" value="11" />
+    <option name="LINE_SPACING" value="1.1" />
     <font>
-        <option name="EDITOR_FONT_NAME" value="Menlo" />
-        <option name="EDITOR_FONT_SIZE" value="11" />
+        <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+        <option name="EDITOR_FONT_SIZE" value="12" />
     </font>
-
     <font>
-        <option name="EDITOR_FONT_NAME" value="Fira Code Regular" />
-        <option name="EDITOR_FONT_SIZE" value="11" />
+        <option name="EDITOR_FONT_NAME" value="Fira Code" />
+        <option name="EDITOR_FONT_SIZE" value="12" />
     </font>
-
+    <console-font>
+        <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+        <option name="EDITOR_FONT_SIZE" value="12" />
+    </console-font>
+    <console-font>
+        <option name="EDITOR_FONT_NAME" value="Fira Code" />
+        <option name="EDITOR_FONT_SIZE" value="12" />
+    </console-font>
+    <option name="EDITOR_FONT_SIZE" value="12" />
     <option name="EDITOR_LIGATURES" value="true" />
-    <console-font>
-        <option name="EDITOR_FONT_NAME" value="Menlo" />
-        <option name="EDITOR_FONT_SIZE" value="11" />
-    </console-font>
-
-    <console-font>
-        <option name="EDITOR_FONT_NAME" value="Fira Code Regular" />
-        <option name="EDITOR_FONT_SIZE" value="11" />
-    </console-font>
+    <option name="CONSOLE_LIGATURES" value="false" />
 
     <colors>
-
         <option name="ActionButton.hoverBackground" value="6c6f934d" />
         <option name="ActionButton.pressedBackground" value="6c6f9380" />
 
         <option name="CARET_COLOR" value="FAB795" />
         <option name="CONSOLE_BACKGROUND_KEY" value="1C1E26" />
-
         <option name="CARET_ROW_COLOR" value="20222C" />"
-<!--        <option name="CARET_ROW_COLOR" value="20222C" />"-->
-<!--        <option name="SELECTION_BACKGROUND" value="393c4e" />-->
-<!--        <option name="SELECTION_BACKGROUND" value="111317" />-->
-        <option name="SELECTION_BACKGROUND" value="2F3341" />
-<!--        <option name="SELECTION_BACKGROUND" value="66433Dca" />-->
-<!--        <option name="SELECTION_BACKGROUND" value="36384Aca" />-->
-<!--        <option name="SELECTION_BACKGROUND" value="2B2C3BD0" />-->
-<!--        <option name="SELECTION_BACKGROUND" value="243E54" />-->
-<!--        <option name="SELECTION_BACKGROUND" value="313344" />-->
+        <option name="SELECTION_BACKGROUND" value="0D0D0D" />
 
         <option name="GUTTER_BACKGROUND" value="1C1E26" />
-        <option name="INDENT_GUIDE" value="2E303E90" />
-        <option name="SELECTED_INDENT_GUIDE" value="D5D8DA2A" />
+        <option name="INDENT_GUIDE" value="3D3F5250" />
+        <option name="SELECTED_INDENT_GUIDE" value="414458" />
         <option name="VISUAL_INDENT_GUIDE" value="D5D8DA1A" />
 
-        <option name="TEARLINE_COLOR" value="272A35" />
-        <option name="SELECTED_TEARLINE_COLOR" value="363A49" />
+        <option name="TEARLINE_COLOR" value="363A49" />
+        <option name="SELECTED_TEARLINE_COLOR" value="4C5267" />
         <option name="SEPARATOR_ABOVE_COLOR" value="232530" />
         <option name="SEPARATOR_BELOW_COLOR" value="232530" />
 
@@ -66,8 +52,9 @@
         <option name="DOC_COMMENT_GUIDE" value="444a73" />
         <option name="DOC_COMMENT_LINK" value="34d3fb" />
 
-        <option name="LINE_NUMBERS_COLOR" value="373D48" />
-        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="616C7F" />
+        <option name="LINE_NUMBERS_COLOR" value="505868" />
+        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="B5BCC9" />
+        <!--<option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="A2A8B4" />-->
         <option name="RIGHT_MARGIN_COLOR" value="2E303E80" />
 
         <option name="ADDED_LINES_COLOR" value="50805C" />
@@ -116,6 +103,7 @@
         <option name="VCS_ANNOTATIONS_COLOR_4" value="50fa7b" />
         <option name="VCS_ANNOTATIONS_COLOR_5" value="8be9fd" />
 
+        <!--><option name="FILESTATUS_ADDED" value="7C9755" />-->
         <option name="FILESTATUS_ADDED" value="a6cc70" />
         <option name="FILESTATUS_COPIED" value="a6cc70" />
         <option name="FILESTATUS_DELETED" value="6272a4" />
@@ -142,19 +130,18 @@
         <option name="TAB_UNDERLINE_INACTIVE" value="2A3946" />
 
         <option name="LOOKUP_COLOR" value="2e303e"/>
-
-        <!--        <option name="FOLDED_TEXT_BORDER_COLOR" value="222436" />-->
-        <!--        <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2030" />-->
-        <!--        <option name="DIFF_SEPARATORS_TOP_BORDER" value="191a2a" />-->
-        <!--        <option name="METHOD_SEPARATORS_COLOR" value="444a73" />-->
-        <!--        <option name="MT_ADDED" value="64d1a9" />-->
-        <!--        <option name="MT_DELETED" value="ff5370" />-->
-        <!--        <option name="MT_IDEA_FILESTATUS_IGNORED" value="bcc4d6" />-->
-        <!--        <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="bcc4d6" />-->
-        <!--        <option name="MT_MODIFIED" value="34d3fb" />-->
-        <!--        <option name="MT_RENAMED" value="70b0ff" />-->
-        <!--        <option name="MT_SUPPRESSED" value="bcc4d6" />-->
-        <!--        <option name="SOFT_WRAP_SIGN_COLOR" value="222436" />-->
+        <!--<option name="FOLDED_TEXT_BORDER_COLOR" value="222436" />-->
+        <!--<option name="DIFF_SEPARATORS_BACKGROUND" value="1e2030" />-->
+        <!--<option name="DIFF_SEPARATORS_TOP_BORDER" value="191a2a" />-->
+        <!--<option name="METHOD_SEPARATORS_COLOR" value="444a73" />-->
+        <!--<option name="MT_ADDED" value="64d1a9" />-->
+        <!--<option name="MT_DELETED" value="ff5370" />-->
+        <!--<option name="MT_IDEA_FILESTATUS_IGNORED" value="bcc4d6" />-->
+        <!--<option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="bcc4d6" />-->
+        <!--<option name="MT_MODIFIED" value="34d3fb" />-->
+        <!--<option name="MT_RENAMED" value="70b0ff" />-->
+        <!--<option name="MT_SUPPRESSED" value="bcc4d6" />-->
+        <!--<option name="SOFT_WRAP_SIGN_COLOR" value="222436" />-->
     </colors>
 
     <attributes>
@@ -170,19 +157,19 @@
         <option name="DEFAULT_BLOCK_COMMENT">
             <value>
 <!--                <option name="FOREGROUND" value="3D5266" />-->
-                <option name="FOREGROUND" value="475F76" />
+                <option name="FOREGROUND" value="5C6E80" />
             </value>
         </option>
         <option name="DEFAULT_DOC_COMMENT">
             <value>
 <!--                <option name="FOREGROUND" value="3D5266" />-->
-                <option name="FOREGROUND" value="475F76" />
+                <option name="FOREGROUND" value="5C6E80" />
             </value>
         </option>
         <option name="DEFAULT_LINE_COMMENT">
             <value>
 <!--                <option name="FOREGROUND" value="3D5266" />-->
-                <option name="FOREGROUND" value="475F76" />
+                <option name="FOREGROUND" value="5C6E80" />
             </value>
         </option>
         <!-- /Custom -->
@@ -341,7 +328,7 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="09090B" />
+                <option name="BACKGROUND" value="4545547d" />
 <!--                <option name="BACKGROUND" value="6C6F9340" />-->
 <!--                <option name="BACKGROUND" value="243E54d0" />-->
                 <option name="ERROR_STRIPE_COLOR" value="4d6168" />
@@ -350,7 +337,7 @@
         </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="3c839050" />
+                <option name="BACKGROUND" value="6D4D6A7d" />
                 <option name="EFFECT_TYPE" value="8" />
 <!--                <option name="EFFECT_COLOR" value="FCFB00" />-->
             </value>
