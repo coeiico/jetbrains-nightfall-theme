@@ -31,7 +31,7 @@
 
 1. Open **File > Settings** then navigate to **Plugins**
 2. Switch to the **Marketplace** tab and search for `nightfall`
-3. Click on the <kbd>Intall</kbd> button and restart the IDE to complete the installation
+3. Click on the <kbd>Install</kbd> button and restart the IDE to complete the installation
 4. To activate the theme open **File > Settings** then navigate to **Appearance & Behavior**
 5. Select `nightfall` from the **Theme** dropdown menu
 6. Click on the <kbd>Apply</kbd> button to apply the changes
