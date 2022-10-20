@@ -29,7 +29,8 @@
         <option name="CARET_COLOR" value="FAB795" />
         <option name="CONSOLE_BACKGROUND_KEY" value="1C1E26" />
         <option name="CARET_ROW_COLOR" value="20222C" />"
-        <option name="SELECTION_BACKGROUND" value="0D0D0D" />
+        <option name="SELECTION_BACKGROUND" value="2F3341" />
+<!--        <option name="SELECTION_BACKGROUND" value="0D0D0D" />-->
 
         <option name="GUTTER_BACKGROUND" value="1C1E26" />
         <option name="INDENT_GUIDE" value="3D3F5250" />
