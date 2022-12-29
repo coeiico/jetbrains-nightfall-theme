@@ -115,6 +115,8 @@
         "RunWidget.background": "#1c1e26",
         "RunWidget.runningBackground": "#30533D",
         "RunWidget.StopButton.background": "#7B3131",
+        "RunWidget.StopButton.leftHoverBackground": "#6F2929",
+        "RunWidget.StopButton.leftPressedBackground": "#651E1E",
 
         "ActionButton.hoverBackground": "hoverBackground",
         "ActionButton.hoverBorderColor": "hoverBackground",
