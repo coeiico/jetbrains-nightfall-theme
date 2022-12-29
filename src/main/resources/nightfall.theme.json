@@ -112,6 +112,10 @@
         "windowBorder": "#BFC7D7",
         "windowText": "#43464C",
 
+        "RunWidget.background": "#1c1e26",
+        "RunWidget.runningBackground": "#30533D",
+        "RunWidget.StopButton.background": "#7B3131",
+
         "ActionButton.hoverBackground": "hoverBackground",
         "ActionButton.hoverBorderColor": "hoverBackground",
         "ActionButton.pressedBackground": "hoverBackground",
