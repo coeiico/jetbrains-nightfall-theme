@@ -1,26 +1,26 @@
 <scheme name="nightfall" version="142" parent_scheme="Darcula">
     <!--Contents-->
-    <option name="FONT_SCALE" value="1.0" />
-    <option name="LINE_SPACING" value="1.1" />
-    <font>
-        <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-        <option name="EDITOR_FONT_SIZE" value="12" />
-    </font>
-    <font>
-        <option name="EDITOR_FONT_NAME" value="Fira Code" />
-        <option name="EDITOR_FONT_SIZE" value="12" />
-    </font>
-    <console-font>
-        <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-        <option name="EDITOR_FONT_SIZE" value="12" />
-    </console-font>
-    <console-font>
-        <option name="EDITOR_FONT_NAME" value="Fira Code" />
-        <option name="EDITOR_FONT_SIZE" value="12" />
-    </console-font>
-    <option name="EDITOR_FONT_SIZE" value="12" />
-    <option name="EDITOR_LIGATURES" value="true" />
-    <option name="CONSOLE_LIGATURES" value="false" />
+<!--    <option name="FONT_SCALE" value="1.0" />-->
+<!--    <option name="LINE_SPACING" value="1.1" />-->
+<!--    <font>-->
+<!--        <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />-->
+<!--        <option name="EDITOR_FONT_SIZE" value="12" />-->
+<!--    </font>-->
+<!--    <font>-->
+<!--        <option name="EDITOR_FONT_NAME" value="Fira Code" />-->
+<!--        <option name="EDITOR_FONT_SIZE" value="12" />-->
+<!--    </font>-->
+<!--    <console-font>-->
+<!--        <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />-->
+<!--        <option name="EDITOR_FONT_SIZE" value="12" />-->
+<!--    </console-font>-->
+<!--    <console-font>-->
+<!--        <option name="EDITOR_FONT_NAME" value="Fira Code" />-->
+<!--        <option name="EDITOR_FONT_SIZE" value="12" />-->
+<!--    </console-font>-->
+<!--    <option name="EDITOR_FONT_SIZE" value="12" />-->
+<!--    <option name="EDITOR_LIGATURES" value="true" />-->
+<!--    <option name="CONSOLE_LIGATURES" value="false" />-->
 
     <colors>
         <option name="ActionButton.hoverBackground" value="6c6f934d" />
