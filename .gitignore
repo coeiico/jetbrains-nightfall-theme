@@ -91,6 +91,6 @@ gradle-app.setting
 
 .idea/jetbrains-nightfall-theme.iml
 .idea/modules.xml
-gradle.properties
+# gradle.properties
 .idea/jarRepositories.xml
 .idea/sbt.xml
