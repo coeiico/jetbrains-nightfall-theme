@@ -1,5 +1,10 @@
 # Changelog
 
+### 1.1.8
+
+- added support for 2023.1
+- removed changing editor and console font
+
 ### 1.1.7
 
 - added support for 2022.3
