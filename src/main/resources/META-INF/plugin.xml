@@ -1,0 +1,45 @@
+<idea-plugin>
+
+    <id>com.brandiico.jetbrains-nightfall-theme</id>
+    <name>Nightfall Theme</name>
+    <vendor
+            email="brandoncoetzee64@gmail.com"
+            url="https://github.com/brandii-co">Brandon Coetzee
+    </vendor>
+
+    <description><![CDATA[
+    A dark, clean, simple and elegant theme for JetBrains IDE.
+    <br/><br/>
+    <a href="https://github.com/brandii-co/jetbrains-nightfall-theme"> repository </a>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://github.com/brandii-co/jetbrains-nightfall-theme/tree/main/assets/previews"> screenshots </a>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://github.com/brandii-co/jetbrains-nightfall-theme/issues"> issues </a>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://github.com/brandii-co/jetbrains-nightfall-theme/blob/main/CONTRIBUTING.md"> contributing </a>
+    <br/><br/>
+
+    <div style="text-align:left"><img width="813.5" height="424" src="https://raw.githubusercontent.com/brandii-co/jetbrains-nightfall-theme/main/assets/previews/screenshots/preview_1_r.png"/></div>
+    <br/><br/>
+
+    To install:
+    <ol>
+    <li>Go to <b>Settings | Plugins</b>, find the theme plugin and install it</li>
+    <li>Restart the IDE</li>
+    <li>Go to <b>Settings | Appearance & Behavior | Appearance</b> and select <b>nightfall</b> in the Theme dropdown</li>
+    </ol>
+
+    ]]></description>
+
+    <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.lang</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="0fc029af-0fce-43bd-b5c8-e2d9f78211dc" path="/nightfall.theme.json"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+
+</idea-plugin>
