@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#1C1E26;stroke:#1C1E26;stroke-miterlimit:10;}
+	.st2{fill:#232530;}
+	.st3{display:none;fill:#FFFFFF;}
+	.st4{fill:url(#_x28_back_x29__1_);}
+	.st5{display:inline;fill:url(#SVGID_1_);}
+	.st6{display:none;fill:url(#Moon__x28_back_x29__1_);}
+	.st7{fill:url(#Moon_2_);}
+	.st8{display:none;fill:url(#Inner_Ring__x28_back_x29__1_);}
+	.st9{display:none;fill:url(#Inner_Ring_2_);}
+	.st10{display:none;fill:#1C1E26;stroke:#1C1E26;stroke-miterlimit:10;}
+	.st11{fill:#59E3E3;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Square_Back" class="st0">
+	<rect class="st1" width="500.05" height="500.05"/>
+</g>
+<g id="Circle_Back">
+	<circle class="st2" cx="249.75" cy="251.63" r="250.25"/>
+</g>
+<g id="Moon_Full">
+	<path class="st3" d="M480.26,248.25c0,127.17-103.09,230.26-230.26,230.26S19.74,375.42,19.74,248.25H480.26z"/>
+	<path class="st3" d="M480.26,246.25c0-127.17-103.09-230.26-230.26-230.26S19.74,119.08,19.74,246.25H480.26z"/>
+	<g id="Outer_Ring" class="st0">
+		<radialGradient id="_x28_back_x29__1_" cx="250" cy="246.25" r="230.263" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#F075B7"/>
+			<stop  offset="0.3893" style="stop-color:#EE74B6;stop-opacity:0.6107"/>
+			<stop  offset="0.5296" style="stop-color:#E772B1;stop-opacity:0.4704"/>
+			<stop  offset="0.6296" style="stop-color:#DC6DA9;stop-opacity:0.3704"/>
+			<stop  offset="0.7105" style="stop-color:#CB669E;stop-opacity:0.2895"/>
+			<stop  offset="0.7797" style="stop-color:#B55E90;stop-opacity:0.2203"/>
+			<stop  offset="0.8411" style="stop-color:#99537E;stop-opacity:0.1589"/>
+			<stop  offset="0.8965" style="stop-color:#794769;stop-opacity:0.1035"/>
+			<stop  offset="0.9475" style="stop-color:#533850;stop-opacity:0.0525"/>
+			<stop  offset="0.9929" style="stop-color:#2A2835;stop-opacity:7.121146e-03"/>
+			<stop  offset="1" style="stop-color:#232530;stop-opacity:0"/>
+		</radialGradient>
+		<circle id="_x28_back_x29_" class="st4" cx="250" cy="246.25" r="230.26"/>
+		<radialGradient id="SVGID_1_" cx="250" cy="246.25" r="230.263" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#F075B7"/>
+			<stop  offset="0.3893" style="stop-color:#EE74B6;stop-opacity:0.6107"/>
+			<stop  offset="0.5296" style="stop-color:#E772B1;stop-opacity:0.4704"/>
+			<stop  offset="0.6296" style="stop-color:#DC6DA9;stop-opacity:0.3704"/>
+			<stop  offset="0.7105" style="stop-color:#CB669E;stop-opacity:0.2895"/>
+			<stop  offset="0.7797" style="stop-color:#B55E90;stop-opacity:0.2203"/>
+			<stop  offset="0.8411" style="stop-color:#99537E;stop-opacity:0.1589"/>
+			<stop  offset="0.8965" style="stop-color:#794769;stop-opacity:0.1035"/>
+			<stop  offset="0.9475" style="stop-color:#533850;stop-opacity:0.0525"/>
+			<stop  offset="0.9929" style="stop-color:#2A2835;stop-opacity:7.121146e-03"/>
+			<stop  offset="1" style="stop-color:#232530;stop-opacity:0"/>
+		</radialGradient>
+		<path class="st5" d="M19.74,246.25C19.74,119.08,122.83,15.99,250,15.99s230.26,103.09,230.26,230.26S377.17,476.51,250,476.51
+			S19.74,373.42,19.74,246.25"/>
+	</g>
+	<linearGradient id="Moon__x28_back_x29__1_" gradientUnits="userSpaceOnUse" x1="250" y1="59.625" x2="250" y2="246.25">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#26BBD9"/>
+	</linearGradient>
+	<path id="Moon__x28_back_x29_" class="st6" d="M436.63,246.25c0-103.07-83.55-186.63-186.63-186.63S63.38,143.18,63.38,246.25
+		H436.63z"/>
+	<linearGradient id="Moon_2_" gradientUnits="userSpaceOnUse" x1="250" y1="59.625" x2="250" y2="246.25">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#26BBD9"/>
+	</linearGradient>
+	<path id="Moon_1_" class="st7" d="M436.63,246.25c0-103.07-83.55-186.63-186.63-186.63S63.38,143.18,63.38,246.25H436.63z"/>
+	<radialGradient id="Inner_Ring__x28_back_x29__1_" cx="250" cy="246.25" r="186.625" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="0.4228" style="stop-color:#FEFDFF;stop-opacity:0.4228"/>
+		<stop  offset="0.5751" style="stop-color:#FAF6FD;stop-opacity:0.5751"/>
+		<stop  offset="0.6837" style="stop-color:#F4EBFA;stop-opacity:0.6837"/>
+		<stop  offset="0.7715" style="stop-color:#EBDAF5;stop-opacity:0.7715"/>
+		<stop  offset="0.8467" style="stop-color:#E0C4EF;stop-opacity:0.8467"/>
+		<stop  offset="0.9132" style="stop-color:#D2A8E8;stop-opacity:0.9132"/>
+		<stop  offset="0.9719" style="stop-color:#C189E0;stop-opacity:0.9719"/>
+		<stop  offset="1" style="stop-color:#B877DB"/>
+	</radialGradient>
+	<circle id="Inner_Ring__x28_back_x29_" class="st8" cx="250" cy="246.25" r="186.63"/>
+	<radialGradient id="Inner_Ring_2_" cx="250" cy="246.25" r="186.625" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="0.4228" style="stop-color:#FEFDFF;stop-opacity:0.4228"/>
+		<stop  offset="0.5751" style="stop-color:#FAF6FD;stop-opacity:0.5751"/>
+		<stop  offset="0.6837" style="stop-color:#F4EBFA;stop-opacity:0.6837"/>
+		<stop  offset="0.7715" style="stop-color:#EBDAF5;stop-opacity:0.7715"/>
+		<stop  offset="0.8467" style="stop-color:#E0C4EF;stop-opacity:0.8467"/>
+		<stop  offset="0.9132" style="stop-color:#D2A8E8;stop-opacity:0.9132"/>
+		<stop  offset="0.9719" style="stop-color:#C189E0;stop-opacity:0.9719"/>
+		<stop  offset="1" style="stop-color:#B877DB"/>
+	</radialGradient>
+	<path id="Inner_Ring_1_" class="st9" d="M63.38,246.25c0-103.07,83.55-186.63,186.63-186.63s186.63,83.55,186.63,186.63
+		S353.07,432.88,250,432.88S63.38,349.32,63.38,246.25"/>
+</g>
+<g id="Water">
+	<path id="Blocker_Round_1_" class="st2" d="M500.27,246.25c0,138.21-112.04,250.25-250.25,250.25S-0.23,384.46-0.23,246.25H500.27z
+		"/>
+	<rect id="Blocker" y="246.25" class="st10" width="500" height="253.8"/>
+	<path id="Guide" class="st3" d="M480.26,246.25c0,127.17-103.09,230.26-230.26,230.26S19.74,373.42,19.74,246.25H480.26z"/>
+	<g id="Streams">
+		<g id="Layer_7">
+			<path class="st11" d="M478.26,256H21.74c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h456.53c1.1,0,2,0.9,2,2l0,0
+				C480.26,255.1,479.36,256,478.26,256z"/>
+			<path class="st11" d="M225.74,268.5H32.5c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h193.24c1.1,0,2,0.9,2,2l0,0
+				C227.74,267.6,226.84,268.5,225.74,268.5z"/>
+			<path class="st11" d="M447.25,268.5H241.74c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h205.51c1.1,0,2,0.9,2,2l0,0
+				C449.25,267.6,448.35,268.5,447.25,268.5z"/>
+			<path class="st11" d="M437.88,306h-59.75c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h59.75c1.1,0,2,0.9,2,2l0,0
+				C439.88,305.1,438.98,306,437.88,306z"/>
+			<path class="st11" d="M362.13,306H52.62c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h309.5c1.1,0,2,0.9,2,2l0,0
+				C364.13,305.1,363.23,306,362.13,306z"/>
+			<path class="st11" d="M467.38,318.5H298.63c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h168.75c1.1,0,2,0.9,2,2l0,0
+				C469.38,317.6,468.48,318.5,467.38,318.5z"/>
+			<path class="st11" d="M282.63,318.5h-59.75c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h59.75c1.1,0,2,0.9,2,2l0,0
+				C284.63,317.6,283.73,318.5,282.63,318.5z"/>
+			<path class="st11" d="M206.88,318.5H34.25c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h172.63c1.1,0,2,0.9,2,2l0,0
+				C208.88,317.6,207.98,318.5,206.88,318.5z"/>
+			<path class="st11" d="M421.38,331h-59.75c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h59.75c1.1,0,2,0.9,2,2l0,0
+				C423.38,330.1,422.48,331,421.38,331z"/>
+			<path class="st11" d="M345.63,331H53.31c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h292.31c1.1,0,2,0.9,2,2l0,0
+				C347.63,330.1,346.73,331,345.63,331z"/>
+			<path class="st11" d="M389.5,343.5H156.88c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2H389.5c1.1,0,2,0.9,2,2l0,0
+				C391.5,342.6,390.6,343.5,389.5,343.5z"/>
+			<path class="st11" d="M140.88,343.5H81.13c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h59.75c1.1,0,2,0.9,2,2l0,0
+				C142.88,342.6,141.98,343.5,140.88,343.5z"/>
+			<path class="st11" d="M408.38,356H209c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h199.38c1.1,0,2,0.9,2,2l0,0
+				C410.38,355.1,409.48,356,408.38,356z"/>
+			<path class="st11" d="M193,356H86.13c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2H193c1.1,0,2,0.9,2,2l0,0C195,355.1,194.1,356,193,356
+				z"/>
+			<path class="st11" d="M412.25,368.5h-74.38c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h74.38c1.1,0,2,0.9,2,2l0,0
+				C414.25,367.6,413.35,368.5,412.25,368.5z"/>
+			<path class="st11" d="M246.13,368.5H77.25c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h168.88c1.1,0,2,0.9,2,2l0,0
+				C248.13,367.6,247.23,368.5,246.13,368.5z"/>
+			<path class="st11" d="M321.88,368.5h-59.75c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h59.75c1.1,0,2,0.9,2,2l0,0
+				C323.88,367.6,322.98,368.5,321.88,368.5z"/>
+			<path class="st11" d="M435.13,381H137.75c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h297.38c1.1,0,2,0.9,2,2l0,0
+				C437.13,380.1,436.23,381,435.13,381z"/>
+			<path class="st11" d="M121.75,381H64.81c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h56.94c1.1,0,2,0.9,2,2l0,0
+				C123.75,380.1,122.85,381,121.75,381z"/>
+			<path class="st11" d="M399.69,393.5H286.63c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h113.06c1.1,0,2,0.9,2,2l0,0
+				C401.69,392.6,400.79,393.5,399.69,393.5z"/>
+			<path class="st11" d="M270.63,393.5H98.68c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h171.94c1.1,0,2,0.9,2,2l0,0
+				C272.63,392.6,271.73,393.5,270.63,393.5z"/>
+			<path class="st11" d="M372.69,406H220.15c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h152.54c1.1,0,2,0.9,2,2l0,0
+				C374.69,405.1,373.79,406,372.69,406z"/>
+			<path class="st11" d="M204.15,406h-89.06c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h89.06c1.1,0,2,0.9,2,2l0,0
+				C206.15,405.1,205.25,406,204.15,406z"/>
+			<path class="st11" d="M384.41,418.5H268.25c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h116.16c1.1,0,2,0.9,2,2l0,0
+				C386.41,417.6,385.51,418.5,384.41,418.5z"/>
+			<path class="st11" d="M252.25,418.5H146.38c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h105.88c1.1,0,2,0.9,2,2l0,0
+				C254.25,417.6,253.35,418.5,252.25,418.5z"/>
+			<path class="st11" d="M358,431h-59.75c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2H358c1.1,0,2,0.9,2,2l0,0
+				C360,430.1,359.1,431,358,431z"/>
+			<path class="st11" d="M282.25,431h-125c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h125c1.1,0,2,0.9,2,2l0,0
+				C284.25,430.1,283.35,431,282.25,431z"/>
+			<path class="st11" d="M366.63,443.5H132.5c-1.1,0-2-0.9-2-2v0c0-1.1,0.9-2,2-2h234.13c1.1,0,2,0.9,2,2v0
+				C368.63,442.6,367.73,443.5,366.63,443.5z"/>
+			<path class="st11" d="M323.77,456h-59.75c-1.1,0-2-0.9-2-2v0c0-1.1,0.9-2,2-2h59.75c1.1,0,2,0.9,2,2v0
+				C325.77,455.1,324.87,456,323.77,456z"/>
+			<path class="st11" d="M248.02,456h-75.27c-1.1,0-2-0.9-2-2v0c0-1.1,0.9-2,2-2h75.27c1.1,0,2,0.9,2,2v0
+				C250.02,455.1,249.12,456,248.02,456z"/>
+			<path class="st11" d="M279.9,468.5h-59.75c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h59.75c1.1,0,2,0.9,2,2l0,0
+				C281.9,467.6,281,468.5,279.9,468.5z"/>
+			<path class="st11" d="M407.25,281h-76.88c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h76.88c1.1,0,2,0.9,2,2l0,0
+				C409.25,280.1,408.35,281,407.25,281z"/>
+			<path class="st11" d="M159.75,281H82.88c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h76.88c1.1,0,2,0.9,2,2l0,0
+				C161.75,280.1,160.85,281,159.75,281z"/>
+			<path class="st11" d="M314.38,281H175.75c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h138.63c1.1,0,2,0.9,2,2l0,0
+				C316.38,280.1,315.48,281,314.38,281z"/>
+			<path class="st11" d="M427.38,293.5H210c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2h217.38c1.1,0,2,0.9,2,2l0,0
+				C429.38,292.6,428.48,293.5,427.38,293.5z"/>
+			<path class="st11" d="M194,293.5H67.94c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2H194c1.1,0,2,0.9,2,2l0,0
+				C196,292.6,195.1,293.5,194,293.5z"/>
+		</g>
+	</g>
+</g>
+</svg>
