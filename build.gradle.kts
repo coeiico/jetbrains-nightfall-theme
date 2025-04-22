@@ -33,6 +33,10 @@ kotlin {
         languageVersion = JavaLanguageVersion.of(17)
         vendor = JvmVendorSpec.JETBRAINS
     }
+    
+    compilerOptions {
+        freeCompilerArgs.add("-Xskip-metadata-version-check")
+    }
 }
 
 // Configure Gradle IntelliJ Plugin - read more: https://plugins.jetbrains.com/docs/intellij/tools-gradle-intellij-plugin.html
@@ -71,6 +75,10 @@ koverReport {
 tasks {
     wrapper {
         gradleVersion = properties("gradleVersion").get()
+    }
+
+    buildSearchableOptions {
+        enabled = false
     }
 
     patchPluginXml {
