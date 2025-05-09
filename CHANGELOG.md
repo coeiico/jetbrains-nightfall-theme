@@ -4,6 +4,26 @@
 
 ## [Unreleased]
 
+## [2.0.3] - 2025-05-08
+
+- added support for 2025.1
+
+## [2.0.3] - 2024-11-20
+
+- added support for 2024.3
+
+## [2.0.3-SNAPSHOT-1] - 2024-11-20
+
+- added support for 2024.3
+
+## [2.0.2] - 2024-08-11
+
+- added support for 2024.2
+
+## [2.0.1] - 2024-03-20
+
+- added support for 2024.1
+
 ## [2.0.0] - 2023-11-16
 
 - added support for 2023.3
@@ -151,7 +171,11 @@
 
 - initial release
 
-[Unreleased]: https://github.com/coeiico/jetbrains-nightfall-theme/compare/v2.0.0...HEAD
+[Unreleased]: https://github.com/coeiico/jetbrains-nightfall-theme/compare/v2.0.3...HEAD
+[2.0.3]: https://github.com/coeiico/jetbrains-nightfall-theme/compare/v2.0.2...v2.0.3
+[2.0.3-SNAPSHOT-1]: https://github.com/coeiico/jetbrains-nightfall-theme/compare/v2.0.2...v2.0.3-SNAPSHOT-1
+[2.0.2]: https://github.com/coeiico/jetbrains-nightfall-theme/compare/v2.0.1...v2.0.2
+[2.0.1]: https://github.com/coeiico/jetbrains-nightfall-theme/compare/v2.0.0...v2.0.1
 [2.0.0]: https://github.com/coeiico/jetbrains-nightfall-theme/compare/v1.2.0...v2.0.0
 [1.2.0]: https://github.com/coeiico/jetbrains-nightfall-theme/compare/v1.1.9...v1.2.0
 [1.1.9]: https://github.com/coeiico/jetbrains-nightfall-theme/compare/v1.1.8...v1.1.9

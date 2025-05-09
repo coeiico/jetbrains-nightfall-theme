@@ -99,3 +99,4 @@ gradle-app.setting
 # gradle.properties
 .idea/jarRepositories.xml
 .idea/sbt.xml
+.directory
