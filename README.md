@@ -77,6 +77,7 @@
     <td align="center"><a href="https://github.com/karlmiles"><img src="https://avatars.githubusercontent.com/u/2984054?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Karl Miles</b></sub></a><br /><a href="#ideas-karlmiles" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/rodrigojcmello"><img src="https://avatars.githubusercontent.com/u/5174526?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rodrigo</b></sub></a><br /><a href="#ideas-rodrigojcmello" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/Paracells"><img src="https://avatars.githubusercontent.com/u/575811?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Paracells</b></sub></a><br /><a href="https://github.com/brandii-co/jetbrains-nightfall-theme/issues?q=author%3AParacells" title="Bug reports">🐛</a> <a href="https://github.com/brandii-co/jetbrains-nightfall-theme/commits?author=Paracells" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/mattlibera"><img src="https://avatars.githubusercontent.com/u/6657359?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Matt Libera</b></sub></a><br /><a href="https://github.com/brandii-co/jetbrains-nightfall-theme/issues?q=author%3Amattlibera title="Bug reports">🐛</a> <a href="https://github.com/brandii-co/jetbrains-nightfall-theme/commits?author=mattlibera" title="Code">💻</a></td>
   </tr>
 </table>
 
