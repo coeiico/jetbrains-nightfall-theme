@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+## [2.0.7] - 2026-03-31
+
+- added support for 2026.1
+
 ## [2.0.3] - 2025-05-08
 
 - added support for 2025.1
