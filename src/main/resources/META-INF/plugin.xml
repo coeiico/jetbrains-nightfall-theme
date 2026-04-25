@@ -7,13 +7,7 @@
 
     <depends>com.intellij.modules.platform</depends>
 
-    <resource-bundle>messages.NightfallBundle</resource-bundle>
-
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="d5477223-bf3a-4fd6-9738-2a18fa0ccf7b" path="/nightfall.theme.json"/>
     </extensions>
-
-    <applicationListeners>
-        <listener class="com.github.coeiico.nightfall.listeners.NightfallActivationListener" topic="com.intellij.openapi.application.ApplicationActivationListener"/>
-    </applicationListeners>
 </idea-plugin>
