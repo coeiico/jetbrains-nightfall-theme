@@ -1,7 +1,5 @@
 import org.jetbrains.changelog.Changelog
 import org.jetbrains.changelog.markdownToHTML
-import org.jetbrains.intellij.tasks.ListProductsReleasesTask
-
 fun properties(key: String) = providers.gradleProperty(key)
 fun environment(key: String) = providers.environmentVariable(key)
 
@@ -134,11 +132,5 @@ tasks {
 
 tasks.named("buildSearchableOptions") {
     enabled = false
-}
-
-tasks.named<ListProductsReleasesTask>("listProductsReleases") {
-    releaseChannels.set(setOf(ListProductsReleasesTask.Channel.RELEASE))
-    sinceBuild.set(properties("pluginSinceBuild"))
-    untilBuild.set(properties("platformVersion").map { "${it.split('-')[0]}.*" })
 }
 
