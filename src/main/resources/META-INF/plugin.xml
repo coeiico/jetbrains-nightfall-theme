@@ -9,5 +9,6 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="d5477223-bf3a-4fd6-9738-2a18fa0ccf7b" path="/nightfall.theme.json"/>
+        <themeProvider id="a1f8e3b2-7c94-4d1e-b5a6-9f2d0e8c3b7a" path="/nightfall-islands.theme.json"/>
     </extensions>
 </idea-plugin>
