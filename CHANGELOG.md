@@ -4,17 +4,16 @@
 
 ## [Unreleased]
 
+## [2.1.0] - 2026-05-01
+
+- Added Nightfall Islands theme variant for the new JetBrains Islands UI
+- Added support for 2025.3
+- Removed upper IDE version bound — plugin now supports all future IDE versions without updates
+- Minimum supported version is now 2024.3
+
 ## [2.0.3] - 2025-05-08
 
-- added support for 2025.1
-
-## [2.0.3] - 2024-11-20
-
-- added support for 2024.3
-
-## [2.0.3-SNAPSHOT-1] - 2024-11-20
-
-- added support for 2024.3
+- Added support for 2025.1
 
 ## [2.0.2] - 2024-08-11
 
@@ -28,7 +27,7 @@
 
 - added support for 2023.3
 
-## [1.2.0]  - 2023-?-? (REMOVED)
+## [1.2.0] - 2023-?-? (REMOVED)
 
 - <s>added support for 2023.3</s>
 - will now support all future versions of IDEs
@@ -171,9 +170,9 @@
 
 - initial release
 
-[Unreleased]: https://github.com/coeiico/jetbrains-nightfall-theme/compare/v2.0.3...HEAD
+[Unreleased]: https://github.com/coeiico/jetbrains-nightfall-theme/compare/v2.1.0...HEAD
+[2.1.0]: https://github.com/coeiico/jetbrains-nightfall-theme/compare/v2.0.3...v2.1.0
 [2.0.3]: https://github.com/coeiico/jetbrains-nightfall-theme/compare/v2.0.2...v2.0.3
-[2.0.3-SNAPSHOT-1]: https://github.com/coeiico/jetbrains-nightfall-theme/compare/v2.0.2...v2.0.3-SNAPSHOT-1
 [2.0.2]: https://github.com/coeiico/jetbrains-nightfall-theme/compare/v2.0.1...v2.0.2
 [2.0.1]: https://github.com/coeiico/jetbrains-nightfall-theme/compare/v2.0.0...v2.0.1
 [2.0.0]: https://github.com/coeiico/jetbrains-nightfall-theme/compare/v1.2.0...v2.0.0
